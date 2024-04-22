@@ -1,0 +1,29 @@
+L131\L131_3410_fourth eligibility checkpoint call string for APTC.xlsx 
+L131\L131_3411_ourth eligibility checkpoint call string for CCHIP.xlsx 
+L131\L131_3425_ fourth eligibility checkpoint call string for FFY.xlsx 
+L131\L131_3427_ eligibility checkpoint call string for MAGI Adult.xlsx 
+L131\L131_3428_ eligibility checkpoint call string for MAGI Child.xlsx 
+L131\L131_3429_y checkpoint call string for MAGI ParentCare taker.xlsx 
+L131\L131_3430_igibility checkpoint call string for MAGI Pregnant.xlsx 
+L131\L131_3431_fourth eligibility checkpoint call string for MCAP.xlsx 
+L131\L131_3432_ility checkpoint call string for NQI Wrap Medicaid.xlsx 
+L131\L131_3471_ third eligibility checkpoint call string for APTC.xlsx 
+L131\L131_3472_third eligibility checkpoint call string for CCHIP.xlsx 
+L131\L131_3486_s third eligibility checkpoint call string for FFY.xlsx 
+L131\L131_3488_ eligibility checkpoint call string for MAGI Adult.xlsx 
+L131\L131_3489_ eligibility checkpoint call string for MAGI Child.xlsx 
+L131\L131_3490_y checkpoint call string for MAGI ParentCare taker.xlsx 
+L131\L131_3491_igibility checkpoint call string for MAGI Pregnant.xlsx 
+L131\L131_3492_ third eligibility checkpoint call string for MCAP.xlsx 
+L131\L131_3493_ility checkpoint call string for NQI Wrap Medicaid.xlsx 
+L131\L131_4142_ fourth eligibility checkpoint call string for MFJ.xlsx 
+L136\L136_1864_eligibility or ineligibility for APTC or CSR.xlsx 
+L136\L136_5861_eligibility or ineligibility for APTC or CSR.xlsx 
+L137\L137_5862_triggering event date for MEC and APTC.xlsx 
+L137\L137_5866_the persons initial detected first day to enroll.xlsx 
+L138\L138_5854_detected maximum triggering event date.xlsx 
+L139\L139_5851_between household and detection maximum.xlsx 
+L146\L146_3349_the persons potential primary AID code.xlsx 
+L146\L146_3354_the persons primary AID code  output.xlsx 
+L146\L146_6140_the persons MAGI AID Code for budget.xlsx 
+L147\L147_3794_corresponding to persons primary AID code.xlsx

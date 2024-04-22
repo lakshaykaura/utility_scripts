@@ -1,0 +1,1614 @@
+L0\L0_134_the NOD01 regulation string part 9 exists.xlsx 
+L0\L0_161_the NOD01 regulation string part 9.xlsx 
+L0\L0_3268_the persons ineligibility reason for APTC  married filing separately.xlsx 
+L0\L0_3270_the persons ineligibility reason for APTC  not in primary tax filer household.xlsx 
+L0\L0_3271_the persons ineligibility reason for APTC  Residency.xlsx 
+L0\L0_3281_the persons ineligibility reason for CSR  ineligible for APTC.xlsx 
+L0\L0_3284_the persons ineligibility reason for CSR  Residency.xlsx 
+L0\L0_3287_the persons ineligibility reason for Medicaid  Aged.xlsx 
+L0\L0_3295_the persons ineligibility reason for Medicaid  Medicare.xlsx 
+L0\L0_3322_the persons ineligibility reason for QHP  Residency.xlsx 
+L0\L0_916_the NOD67 regulation string part 11 exists.xlsx 
+L0_8\L1_Prior AID Code MEC - Apply Sheet.xlsx 
+L1\L1_1191_the income compatibility threshold.xlsx 
+L1\L1_132_the NOD01 regulation string part 7 exists.xlsx 
+L1\L1_143_the NOD01 regulation string part 18 exists.xlsx 
+L1\L1_1895_the persons date of birth day.xlsx 
+L1\L1_1896_the persons date of birth month.xlsx 
+L1\L1_3388_the persons countable income from FTB 1099 1.xlsx 
+L1\L1_3389_the persons countable income from FTB 1099 6.xlsx 
+L1\L1_3390_the persons countable income from FTB 1099 7.xlsx 
+L1\L1_3391_the persons countable income from FTB 1099 9.xlsx 
+L1\L1_3392_the persons countable income from FTB 1099 A.xlsx 
+L1\L1_3393_the persons countable income from FTB 1099 B.xlsx 
+L1\L1_3394_the persons countable income from FTB 1099 D.xlsx 
+L1\L1_3395_the persons countable income from FTB 1099 F.xlsx 
+L1\L1_3396_the persons countable income from FTB 1099 MC.xlsx 
+L1\L1_3397_the persons countable income from FTB 1099 S.xlsx 
+L1\L1_3768_the persons name for use in proof chart  name suffix.xlsx 
+L1\L1_3901_the persons applicant attestation for values.xlsx 
+L1\L1_3903_the persons temporarily out of state for values.xlsx 
+L1\L1_3907_the persons incarceration indicator from CSR for values.xlsx 
+L1\L1_3908_the persons state indicator from CSR for values.xlsx 
+L1\L1_4123_the persons expected delivery date.xlsx 
+L1\L1_4343_the persons pregnancy date for use with soft pause.xlsx 
+L1\L1_5082_the persons NOD02 regulation string part 5 exists.xlsx 
+L1\L1_5093_the persons NOD02 regulation string part 16 exists.xlsx 
+L1\L1_5785_the persons identifier output for budget.xlsx 
+L1\L1_6286_the persons expected to be required to file taxes output for budget.xlsx 
+L1\L1_6330_the persons name output for budget.xlsx 
+L1\L1_6342_the persons plans to file taxes output for budget.xlsx 
+L1\L1_6343_the persons tax filing status output for budget.xlsx 
+L1\L1_6344_the persons primary tax filer output for budget.xlsx 
+L1\L1_6345_the persons lives with primary tax filer output for budget.xlsx 
+L1\L1_6773_the number of whole months between the persons income begin and end dates.xlsx 
+L1\L1_6776_the persons calculated income units.xlsx 
+L1\L1_6852_the persons HICAP agency contact number.xlsx 
+L1\L1_6853_the persons HICAP agency name.xlsx 
+L1\L1_6854_the persons HICAP agency address.xlsx 
+L1\L1_6869_the number of days in the persons income begin date month.xlsx 
+L1\L1_6872_the number of days in the persons income end date month.xlsx 
+L1\L1_6878_the persons income type  old.xlsx 
+L1\L1_6879_the persons income final divorce or separation date.xlsx 
+L1\L1_6953_the persons prior eligibility timeline begin date for SHOP.xlsx 
+L1\L1_6954_the persons prior eligibility timeline end date for SHOP.xlsx 
+L1\L1_7090_the persons prior eligibility QHP hold string.xlsx 
+L1\L1_7103_the persons prior eligibility status code for MAGI Medicaid to use for potential.xlsx 
+L1\L1_7128_the persons prior eligibility PTD indicator.xlsx 
+L1\L1_7143_the persons prior eligibility ROP indicator.xlsx 
+L1\L1_7338_the persons SHOP employer used waiting period.xlsx 
+L1\L1_7406_ry aid code for MAGI Medicaid to use for potential.xlsx 
+L1\L1_7736_the persons enrollment timeline begin date.xlsx 
+L1\L1_7737_the persons enrollment timeline end date.xlsx 
+L1\L1_7747_the persons disposition end date.xlsx 
+L1\L1_94_the households calculated last day to enroll.xlsx 
+L1\L1_Global constants table.xlsx 
+L1\L1_Prior AID Code MEC - CR11389 - Table 1.xlsx 
+L10\L10_326_the benefit month.xlsx 
+L10\L10_327_the coverage year.xlsx 
+L10\L10_4728_the persons Subsidy income from 1 st state source.xlsx 
+L10\L10_5121_the persons NOD02 regulation string part 16.xlsx 
+L10\L10_5122_the persons NOD02 regulation string part 17.xlsx 
+L10\L10_5123_the persons NOD02 regulation string part 18.xlsx 
+L10\L10_5124_the persons NOD02 regulation string part 19.xlsx 
+L10\L10_5125_the persons NOD02 regulation string part 20.xlsx 
+L10\L10_5126_the persons NOD02 regulation string part 21.xlsx 
+L10\L10_5127_the persons NOD02 regulation string part 22.xlsx 
+L10\L10_5128_the persons NOD02 regulation string part 23.xlsx 
+L10\L10_5129_the persons NOD02 regulation string part 24.xlsx 
+L10\L10_5130_the persons NOD02 regulation string part 25.xlsx 
+L10\L10_5131_the persons NOD02 regulation string part 26.xlsx 
+L100\L100_1409_MAGI program the person is eligible for.xlsx 
+L100\L100_7762_budget meets 435119 c exception.xlsx 
+L102\L102_1958_persons eligibility status for MAGI Medicaid.xlsx 
+L102\L102_3348_tential eligibility status code for MAGI MediCal.xlsx 
+L103\L103_3214_the persons CHIP premium amount.xlsx 
+L103\L103_3240_eligibility status code for MAGI MediCal.xlsx 
+L103\L103_6325_MAGI eligibility status output for budget.xlsx 
+L104\L104_1513_the persons initial end date for Medicaid.xlsx 
+L104\L104_3288_ineligibility reason for Medicaid  Citizenship.xlsx 
+L104\L104_3289_ineligibility reason for Medicaid  Deceased.xlsx 
+L104\L104_3290_ineligibility reason for Medicaid  Immigration.xlsx 
+L104\L104_3291_s ineligibility reason for Medicaid  Incarceration.xlsx 
+L104\L104_3294_persons ineligibility reason for Medicaid  MEC.xlsx 
+L104\L104_3296_rsons ineligibility reason for Medicaid  Residency.xlsx 
+L104\L104_3297_neligibility reason for Medicaid  SSN verification.xlsx 
+L104\L104_3298_sons ineligibility reason for Medicaid  SSN waiver.xlsx 
+L104\L104_3308_s ineligibility reason for MediCal  Claimed by NCP.xlsx 
+L104\L104_3309_sons ineligibility reason  negative action  denied.xlsx 
+L104\L104_3310_neligibility reason  negative action  discontinued.xlsx 
+L104\L104_3344_the persons negative action reason executed.xlsx 
+L104\L104_792_the skip condition string part 4 exists.xlsx 
+L104\L104_968_the skip condition string part 7 exists.xlsx 
+L105\L105_1273_eligibility period end date for Medicaid.xlsx 
+L105\L105_3337_the persons MAGI program category.xlsx 
+L105\L105_3900_the persons negative action for values.xlsx 
+L106\L106_3218_conditional end date for Medicaid.xlsx 
+L107\L107_1514_the persons initial begin date for Medicaid.xlsx 
+L107\L107_6328_MAGI eligibility conditional end date for budget.xlsx 
+L108\L108_1143_string for whether NOD02 should be sent.xlsx 
+L108\L108_3202_the persons begin date for Medicaid.xlsx 
+L108\L108_3249_the persons end date for Medicaid.xlsx 
+L109\L109_1280_persons calculated Medicaid renewal date.xlsx 
+L109\L109_1825_the persons discontinuance end date.xlsx 
+L109\L109_1844_the persons closest MEC end date.xlsx 
+L109\L109_1880_the persons Carry Forward begin date initial.xlsx 
+L109\L109_3912_persons MAGI discontinuance date for values.xlsx 
+L109\L109_6326_persons MAGI eligibility begin date for budget.xlsx 
+L109\L109_6327_persons MAGI eligibility end date for budget.xlsx 
+L11\L11_7437_the persons VCI response income begin date for calculation.xlsx 
+L11\L11_7438_the persons VCI response income end date for calculation.xlsx 
+L11\L11_7475_the persons VCI response payperiod identifier.xlsx 
+L11\L11_93_the coverage year display for exchange notices.xlsx 
+L11\L11_949_the coverage year display for snippet 829.xlsx 
+L110\L110_1881_persons Carry Forward begin date day.xlsx 
+L110\L110_1882_persons Carry Forward begin date month.xlsx 
+L110\L110_3255_finalized eligibility status code for MAGI MediCal.xlsx 
+L110\L110_3256_persons finalized primary AID code.xlsx 
+L110\L110_3360_the persons renewal date for Medicaid.xlsx 
+L110\L110_3913_s negative action or noncompliance lift for values.xlsx 
+L110\L110_5704_persons soft pause reason code for SAWS.xlsx 
+L111\L111_1861_tax claimee MEC triggering event date minimum.xlsx 
+L111\L111_1938_persons Transition begin date day.xlsx 
+L111\L111_1939_the persons Transition begin date month.xlsx 
+L111\L111_5852_tax claimee MEC triggering event date maximum.xlsx 
+L111\L111_6329_persons MAGI eligibility renewal date for budget.xlsx 
+L112\L112_1853_the persons loss of MEC triggering event date.xlsx 
+L112\L112_5855_loss of MEC triggering event date maximum.xlsx 
+L112\L112_63_date to use for detecting the last exchange status.xlsx 
+L113\L113_5858_detected minimum triggering event date.xlsx 
+L114\L114_1522_status at the end of the HBX evaluation period.xlsx 
+L114\L114_1523_status at the end of the HBX evaluation period.xlsx 
+L114\L114_1524_status at the end of the HBX evaluation period.xlsx 
+L114\L114_2847_the persons eligibility status for CCHIP.xlsx 
+L114\L114_4563_status at the end of the HBX evaluation period.xlsx 
+L114\L114_5857_date between household and detection minimum.xlsx 
+L115\L115_2848_eligibility status code for CCHIP.xlsx 
+L116\L116_2849_ persons eligibility status code for CCHIP  output.xlsx 
+L116\L116_4244_date prior to the end of the HBX evaluation period.xlsx 
+L116\L116_4447_date prior to the end of the HBX evaluation period.xlsx 
+L116\L116_4513_date prior to the end of the HBX evaluation period.xlsx 
+L116\L116_5334_date prior to the end of the HBX evaluation period.xlsx 
+L116\L116_5356_date prior to the end of the HBX evaluation period.xlsx 
+L116\L116_5384_date prior to the end of the HBX evaluation period.xlsx 
+L117\L117_2845_the persons CCHIP AID code.xlsx 
+L118\L118_3378_the persons UI lock flag.xlsx 
+L119\L119_1214_household income for Subsidy.xlsx 
+L12\L12_374_the run type for the case.xlsx 
+L12\L12_6877_the persons income type  new.xlsx 
+L12\L12_7439_the persons VCI response average payperiod income amount.xlsx 
+L12\L12_958_the open enrollment begin date.xlsx 
+L12\L12_959_the open enrollment end date.xlsx 
+L120\L120_3910_the persons initial MAGI income for values.xlsx 
+L120\L120_6078_Subsidy income household output for budget.xlsx 
+L121\L121_1217_sehold truncated FPL percentage for Subsidy.xlsx 
+L121\L121_6347_the persons Subsidy FPL for budget.xlsx 
+L121\L121_7779_the persons budget overridden FPL.xlsx 
+L121_8\L122_26 USC 36B(b)(3) - Premium as percent of income - Apply Sheet.xlsx 
+L121_8\L122_CA AID Codes - Apply Sheet.xlsx 
+L121_8\L122_State Subsidy Max Premium - Apply Sheet.xlsx 
+L122\L122_26 USC 36B(b)(3) - Premium as percent of income - 2023.xlsx 
+L122\L122_3379_the persons verification value for APTC CSR income.xlsx 
+L122\L122_3380_the persons verification value for CAPS income.xlsx 
+L122\L122_6767_income for Subsidy including everification income.xlsx 
+L122\L122_7765_the persons budget countable income.xlsx 
+L122\L122_7770_the persons budget FPL.xlsx 
+L122\L122_7794_the persons budget truncated FPL.xlsx 
+L122\L122_CA AID Codes - No-6614-No-92298 - Table 1.xlsx 
+L122\L122_State Subsidy Max Premium - 2023.xlsx 
+L123\L123_1281_the persons MAGI AID code.xlsx 
+L123\L123_6348_maximum premium percentage for budget.xlsx 
+L124\L124_1425_the persons maximum annual premium amount.xlsx 
+L124\L124_4571_maximum annual premium amount for state subsidy.xlsx 
+L125\L125_1146_thly state subsidy premium amount for comparison.xlsx 
+L125\L125_1195_the maximum monthly premium amount for comparison.xlsx 
+L125\L125_3198_the persons APTC CSR income factor.xlsx 
+L125\L125_6350_Subsidy maximum annual premium amount for budget.xlsx 
+L126\L126_3413_eligibility checkpoint call string for APTC exists.xlsx 
+L126\L126_3474_eligibility checkpoint call string for APTC exists.xlsx 
+L128\L128_1854_the persons newly ineligible APTC date.xlsx 
+L128\L128_3417_ty checkpoint call string for Ineligibility exists.xlsx 
+L128\L128_3426_igibility checkpoint call string for Ineligibility.xlsx 
+L128\L128_3438_the persons internal CSR category ID.xlsx 
+L128\L128_3478_ty checkpoint call string for Ineligibility exists.xlsx 
+L128\L128_6750_the persons internal temporary CSR category ID.xlsx 
+L129\L129_3415_ eligibility checkpoint call string for CSR exists.xlsx 
+L129\L129_3476_ eligibility checkpoint call string for CSR exists.xlsx 
+L129\L129_3487_igibility checkpoint call string for Ineligibility.xlsx 
+L129\L129_5859_eligible triggering event date for APTC and CSR.xlsx 
+L13\L13_3689_eligibility effective date A minus 6 day.xlsx 
+L13\L13_3715_ibility effective date A minus 1 day.xlsx 
+L13\L13_3716_eligibility effective date A minus 2 day.xlsx 
+L13\L13_3717_ligibility effective date A minus 3 day.xlsx 
+L13\L13_3718_eligibility effective date A minus 4 day.xlsx 
+L13\L13_3719_eligibility effective date A minus 5 day.xlsx 
+L13\L13_6790_the persons income type.xlsx 
+L13\L13_7064_state subsidy remediation begin date.xlsx 
+L13\L13_7067_ CCHIP remediation begin date.xlsx 
+L13\L13_7068_or eligibility MCAP remediation begin date.xlsx 
+L13\L13_7069_eligibility NonMAGI Medicaid remediation begin date.xlsx 
+L13\L13_7070_r eligibility CSR remediation begin date.xlsx 
+L13\L13_7071_ligibility APTC remediation begin date.xlsx 
+L13\L13_7107_MAGI Medicaid remediation begin date.xlsx 
+L13\L13_7152_QHP remediation begin date.xlsx 
+L13\L13_7446_the persons VCI response identifier.xlsx 
+L13\L13_960_the open enrollment begin date month 0.xlsx 
+L13\L13_961_the open enrollment begin date day 0.xlsx 
+L13\L13_962_the open enrollment end date month 0.xlsx 
+L13\L13_963_the open enrollment end date day 0.xlsx 
+L130\L130_3412_ fourth eligibility checkpoint call string for CSR.xlsx 
+L130\L130_3433_ fourth eligibility checkpoint call string for QHP.xlsx 
+L130\L130_3473_s third eligibility checkpoint call string for CSR.xlsx 
+L130\L130_3494_s third eligibility checkpoint call string for QHP.xlsx 
+L131\L131_3410_fourth eligibility checkpoint call string for APTC.xlsx 
+L131\L131_3411_ourth eligibility checkpoint call string for CCHIP.xlsx 
+L131\L131_3425_ fourth eligibility checkpoint call string for FFY.xlsx 
+L131\L131_3427_ eligibility checkpoint call string for MAGI Adult.xlsx 
+L131\L131_3428_ eligibility checkpoint call string for MAGI Child.xlsx 
+L131\L131_3429_y checkpoint call string for MAGI ParentCare taker.xlsx 
+L131\L131_3430_igibility checkpoint call string for MAGI Pregnant.xlsx 
+L131\L131_3431_fourth eligibility checkpoint call string for MCAP.xlsx 
+L131\L131_3432_ility checkpoint call string for NQI Wrap Medicaid.xlsx 
+L131\L131_3471_ third eligibility checkpoint call string for APTC.xlsx 
+L131\L131_3472_third eligibility checkpoint call string for CCHIP.xlsx 
+L131\L131_3486_s third eligibility checkpoint call string for FFY.xlsx 
+L131\L131_3488_ eligibility checkpoint call string for MAGI Adult.xlsx 
+L131\L131_3489_ eligibility checkpoint call string for MAGI Child.xlsx 
+L131\L131_3490_y checkpoint call string for MAGI ParentCare taker.xlsx 
+L131\L131_3491_igibility checkpoint call string for MAGI Pregnant.xlsx 
+L131\L131_3492_ third eligibility checkpoint call string for MCAP.xlsx 
+L131\L131_3493_ility checkpoint call string for NQI Wrap Medicaid.xlsx 
+L131\L131_4142_ fourth eligibility checkpoint call string for MFJ.xlsx 
+L134\L134_1855_persons newly ineligible CSR date.xlsx 
+L135\L135_5853_date due to new ineligibility for APTC or CSR.xlsx 
+L135\L135_5860_date due to new ineligibility for APTC or CSR.xlsx 
+L136\L136_1864_eligibility or ineligibility for APTC or CSR.xlsx 
+L136\L136_5861_eligibility or ineligibility for APTC or CSR.xlsx 
+L137\L137_5862_triggering event date for MEC and APTC.xlsx 
+L137\L137_5866_the persons initial detected first day to enroll.xlsx 
+L138\L138_5854_detected maximum triggering event date.xlsx 
+L139\L139_5851_between household and detection maximum.xlsx 
+L13_8\L14_Countable income - Apply sheet.xlsx 
+L14\L14_3690_the persons renewal snippet eligibility effective date B minus 6 day.xlsx 
+L14\L14_3724_the persons renewal snippet eligibility effective date B minus 1 day.xlsx 
+L14\L14_3725_the persons renewal snippet eligibility effective date B minus 2 day.xlsx 
+L14\L14_3726_the persons renewal snippet eligibility effective date B minus 3 day.xlsx 
+L14\L14_3727_the persons renewal snippet eligibility effective date B minus 4 day.xlsx 
+L14\L14_3728_the persons renewal snippet eligibility effective date B minus 5 day.xlsx 
+L14\L14_Countable income - New Income Codes.xlsx 
+L140\L140_5867_person is eligible for special enrollment.xlsx 
+L145\L145_3457_persons primary AID code.xlsx 
+L146\L146_3349_the persons potential primary AID code.xlsx 
+L146\L146_3354_the persons primary AID code  output.xlsx 
+L146\L146_6140_the persons MAGI AID Code for budget.xlsx 
+L147\L147_3794_corresponding to persons primary AID code.xlsx 
+L148\L148_3793_MAGI income limit regardless of status.xlsx 
+L149\L149_3896_the persons MAGI income limit.xlsx 
+L15\L15_3712_the persons renewal snippet number of days to subtract for effective date A.xlsx 
+L15\L15_7017_the persons prior eligibility remediation flag.xlsx 
+L15\L15_7461_the persons VCI response count VCI income for Jan.xlsx 
+L15\L15_7462_the persons VCI response count VCI income for Feb.xlsx 
+L15\L15_7463_the persons VCI response count VCI income for Mar.xlsx 
+L15\L15_7464_the persons VCI response count VCI income for Apr.xlsx 
+L15\L15_7465_the persons VCI response count VCI income for May.xlsx 
+L15\L15_7466_the persons VCI response count VCI income for Jun.xlsx 
+L15\L15_7467_the persons VCI response count VCI income for Jul.xlsx 
+L15\L15_7468_the persons VCI response count VCI income for Aug.xlsx 
+L15\L15_7469_the persons VCI response count VCI income for Sep.xlsx 
+L15\L15_7470_the persons VCI response count VCI income for Oct.xlsx 
+L15\L15_7471_the persons VCI response count VCI income for Nov.xlsx 
+L15\L15_7472_the persons VCI response count VCI income for Dec.xlsx 
+L15\L15_7481_the persons transition periods calculated begin date.xlsx 
+L15\L15_7482_the persons transition periods calculated end date.xlsx 
+L152\L152_5083_the persons NOD02 regulation string part 6 exists.xlsx 
+L152\L152_5089_the persons NOD02 regulation string part 12 exists.xlsx 
+L152\L152_5092_the persons NOD02 regulation string part 15 exists.xlsx 
+L152\L152_5120_the persons NOD02 regulation string part 15.xlsx 
+L152\L152_7723_the persons output values.xlsx 
+L153\L153_2894_the persons eligibility status for MCAP.xlsx 
+L153\L153_5086_the persons NOD02 regulation string part 9 exists.xlsx 
+L153\L153_856_the NOD02 regulation string part 15 exists.xlsx 
+L153\L153_876_the NOD02 regulation string part 12 exists.xlsx 
+L153\L153_882_the NOD02 regulation string part 15.xlsx 
+L153\L153_888_the NOD02 regulation string part 6 exists.xlsx 
+L154\L154_2895_the persons eligibility status code for MCAP.xlsx 
+L154\L154_5119_the persons NOD02 regulation string part 14.xlsx 
+L154\L154_7722_the persons output values variable value.xlsx 
+L154\L154_885_the NOD02 regulation string part 9 exists.xlsx 
+L155\L155_881_the NOD02 regulation string part 14.xlsx 
+L156\L156_2892_the persons MCAP AID code.xlsx 
+L156\L156_3347_the persons postpartum end date output.xlsx 
+L156\L156_7626_the persons program.xlsx 
+L157\L157_5809_the persons MCAP discontinuance date.xlsx 
+L157\L157_7620_the persons program output.xlsx 
+L157\L157_7624_the persons program renewal date.xlsx 
+L157\L157_7775_the persons budget noncompliance code.xlsx 
+L158\L158_5868_ day the person is eligible for special enrollment.xlsx 
+L158\L158_5870_ersons second initial detected first day to enroll.xlsx 
+L16\L16_3721_the persons renewal snippet number of days to subtract for effective date B.xlsx 
+L16\L16_5640_the person count VCI income for Jan.xlsx 
+L16\L16_5641_the person count VCI income for Feb.xlsx 
+L16\L16_5642_the person count VCI income for Mar.xlsx 
+L16\L16_5643_the person count VCI income for Apr.xlsx 
+L16\L16_5644_the person count VCI income for May.xlsx 
+L16\L16_5645_the person count VCI income for Jun.xlsx 
+L16\L16_5646_the person count VCI income for Jul.xlsx 
+L16\L16_5647_the person count VCI income for Aug.xlsx 
+L16\L16_5648_the person count VCI income for Sep.xlsx 
+L16\L16_5649_the person count VCI income for Oct.xlsx 
+L16\L16_5650_the person count VCI income for Nov.xlsx 
+L16\L16_5651_the person count VCI income for Dec.xlsx 
+L16\L16_6787_the persons income category.xlsx 
+L16\L16_7497_nsition periods timeline begin date.xlsx 
+L16\L16_7498_n periods timeline calculated begin date.xlsx 
+L16\L16_7499_nsition periods timeline calculated end date.xlsx 
+L16\L16_7502_the persons transition periods timeline status.xlsx 
+L16\L16_7503_ansition periods timeline end reason.xlsx 
+L16\L16_7504_the persons transition periods timeline end date.xlsx 
+L163\L163_3231_bility reason for QHP  has a qualifying life event.xlsx 
+L163\L163_5863_ an effective date of the first of following month.xlsx 
+L164\L164_1420_amount of months to add for eligibility start date.xlsx 
+L164\L164_3254_the persons enrollment period factor.xlsx 
+L166\L166_1512_he persons annual enrollment period effective date.xlsx 
+L166\L166_3318_lity reason for QHP  life event needs verification.xlsx 
+L167\L167_5804_gibility effective date without special enrollment.xlsx 
+L168\L168_4727_ted discontinuance date for APTC for use with MCAP.xlsx 
+L168\L168_5875_ons most advantageous effective date without admin.xlsx 
+L17\L17_3711_the persons renewal snippet eligibility target payment date A.xlsx 
+L17\L17_7065_the persons prior eligibility prior day timeline end date for state subsidy.xlsx 
+L17\L17_7066_the persons prior eligibility prior day timeline begin date for state subsidy.xlsx 
+L17\L17_7072_the persons prior eligibility prior day timeline begin date for QHP.xlsx 
+L17\L17_7073_the persons prior eligibility remediated timeline begin date for MAGI Medicaid.xlsx 
+L17\L17_7078_the persons prior eligibility prior day timeline end date for QHP.xlsx 
+L17\L17_7079_the persons prior eligibility remediated timeline end date for MAGI Medicaid.xlsx 
+L17\L17_7083_the persons prior eligibility prior day timeline begin date for APTC.xlsx 
+L17\L17_7088_the persons prior eligibility prior day timeline end date for APTC.xlsx 
+L17\L17_7092_the persons prior eligibility prior day timeline begin date for CSR.xlsx 
+L17\L17_7096_the persons prior eligibility prior day timeline end date for CSR.xlsx 
+L17\L17_7097_the persons prior eligibility prior day timeline begin date for MAGI Medicaid.xlsx 
+L17\L17_7100_the persons prior eligibility prior day timeline end date for MAGI Medicaid.xlsx 
+L17\L17_7116_the persons prior eligibility prior day timeline begin date for NonMAGI Medicaid.xlsx 
+L17\L17_7121_the persons prior eligibility prior day timeline end date for NonMAGI Medicaid.xlsx 
+L17\L17_7147_the persons prior eligibility prior day timeline begin date for MCAP.xlsx 
+L17\L17_7148_the persons prior eligibility prior day timeline end date for MCAP.xlsx 
+L17\L17_7149_the persons prior eligibility prior day timeline begin date for CCHIP.xlsx 
+L17\L17_7150_the persons prior eligibility prior day timeline end date for CCHIP.xlsx 
+L170\L170_2955_the persons eligibility status for state subsidy.xlsx 
+L171\L171_1130_the effective date category used during BRE run.xlsx 
+L171\L171_5874_the persons most advantageous effective date.xlsx 
+L172\L172_1428_the persons eligibility start date per 155420.xlsx 
+L173\L173_3234_the persons eligibility effective date.xlsx 
+L174\L174_1486_the persons Subsidy begin date for redetermination.xlsx 
+L174\L174_1701_the persons calculated discontinuance date for CSR.xlsx 
+L174\L174_1702_the persons calculated discontinuance date for QHP.xlsx 
+L174\L174_1703_he persons calculated discontinuance date for APTC.xlsx 
+L174\L174_4514_s calculated discontinuance date for state subsidy.xlsx 
+L175\L175_4517_he persons calculated begin date for state subsidy.xlsx 
+L175\L175_781_itial HBX eligibility evaluation period begin date.xlsx 
+L178\L178_1956_the persons eligibility status for APTC.xlsx 
+L178\L178_1957_the persons eligibility status for CSR.xlsx 
+L178\L178_3245_the persons eligibility status for QHP.xlsx 
+L179\L179_3236_the persons eligibility status code for APTC.xlsx 
+L179\L179_3239_the persons eligibility status code for CSR.xlsx 
+L179\L179_3242_the persons eligibility status code for QHP.xlsx 
+L179\L179_6173_e persons CSR eligibility status output for budget.xlsx 
+L179\L179_6208_ persons APTC eligibility status output for budget.xlsx 
+L179\L179_6248_e persons QHP eligibility status output for budget.xlsx 
+L18\L18_2015_snippet eligibility payment date A.xlsx 
+L18\L18_3720_t eligibility target payment date B.xlsx 
+L18\L18_7441_the persons VCI response calculated annual income.xlsx 
+L180\L180_3222_the persons CSR category ID.xlsx 
+L180\L180_3233_ons eligibility reason  met all other requirements.xlsx 
+L180\L180_3261_persons ineligibility reason for APTC  Citizenship.xlsx 
+L180\L180_3262_the persons ineligibility reason for APTC  Consent.xlsx 
+L180\L180_3263_he persons ineligibility reason for APTC  Deceased.xlsx 
+L180\L180_3264_rsons ineligibility reason for APTC  Incarceration.xlsx 
+L180\L180_3266_y reason for APTC  Income Reasonable Compatibility.xlsx 
+L180\L180_3267_ons ineligibility reason for APTC  Lawful Presence.xlsx 
+L180\L180_3269_the persons ineligibility reason for APTC  MEC.xlsx 
+L180\L180_3272_ns ineligibility reason for APTC  SSN verification.xlsx 
+L180\L180_3273_ persons ineligibility reason for APTC  SSN waiver.xlsx 
+L180\L180_3274_ns ineligibility reason for CSR  AIAN verification.xlsx 
+L180\L180_3275_ persons ineligibility reason for CSR  Citizenship.xlsx 
+L180\L180_3276_the persons ineligibility reason for CSR  Consent.xlsx 
+L180\L180_3277_the persons ineligibility reason for CSR  Deceased.xlsx 
+L180\L180_3278_ersons ineligibility reason for CSR  Incarceration.xlsx 
+L180\L180_3282_sons ineligibility reason for CSR  Lawful Presence.xlsx 
+L180\L180_3283_the persons ineligibility reason for CSR  MEC.xlsx 
+L180\L180_3285_ons ineligibility reason for CSR  SSN verification.xlsx 
+L180\L180_3286_e persons ineligibility reason for CSR  SSN waiver.xlsx 
+L180\L180_3314_ persons ineligibility reason for QHP  Citizenship.xlsx 
+L180\L180_3315_the persons ineligibility reason for QHP  Deceased.xlsx 
+L180\L180_3316_ersons ineligibility reason for QHP  Incarceration.xlsx 
+L180\L180_3317_sons ineligibility reason for QHP  Lawful Presence.xlsx 
+L180\L180_3319_ty reason for QHP  life event is not within period.xlsx 
+L180\L180_3320_the persons ineligibility reason for QHP  Medicare.xlsx 
+L180\L180_3321_igibility reason for QHP  no qualifying life event.xlsx 
+L180\L180_3323_ons ineligibility reason for QHP  SSN verification.xlsx 
+L180\L180_3324_e persons ineligibility reason for QHP  SSN waiver.xlsx 
+L180\L180_4195_tus used for eligibility determination for subsidy.xlsx 
+L180\L180_6157_the persons calculated begin date for CSR.xlsx 
+L180\L180_6227_the persons calculated begin date for APTC.xlsx 
+L180\L180_6480_the persons temporary CSR category ID.xlsx 
+L181\L181_1272_contingent eligibility period end date for subsidy.xlsx 
+L181\L181_1475_ersons SHOP effective enrollment period begin date.xlsx 
+L181\L181_1480_ persons SHOP effective enrollment period end date.xlsx 
+L181\L181_3226_ument or status used for eligibility determination.xlsx 
+L181\L181_3227_ eligibility reason for APTC  Income Within Limits.xlsx 
+L181\L181_3228_s eligibility reason for CSR  Income Within Limits.xlsx 
+L181\L181_3232_bility reason for QHP  life event is within period.xlsx 
+L181\L181_3279_ty reason for CSR  Income Reasonable Compatibility.xlsx 
+L181\L181_3338_the persons maximum annual APTC amount.xlsx 
+L181\L181_362_the household composition.xlsx 
+L181\L181_366_the maximum annual premium amount.xlsx 
+L181\L181_3773_the persons proof chart string for AIAN.xlsx 
+L181\L181_3774_the persons proof chart string for SSN.xlsx 
+L181\L181_4880_the persons proof chart string for immigration.xlsx 
+L181\L181_5482_the persons second lowest silver age.xlsx 
+L181\L181_5483_he persons second lowest silver maximum identifier.xlsx 
+L181\L181_7369_the global responses name.xlsx 
+L181\L181_819_the skip condition string part 10.xlsx 
+L181\L181_841_the skip condition string part 5 exists.xlsx 
+L182\L182_1037_the proof chart value for person 1 for AIAN.xlsx 
+L182\L182_1038_the proof chart value for person 2 for AIAN.xlsx 
+L182\L182_1039_the proof chart value for person 3 for AIAN.xlsx 
+L182\L182_1040_the proof chart value for person 4 for AIAN.xlsx 
+L182\L182_1041_the proof chart value for person 5 for AIAN.xlsx 
+L182\L182_1042_the proof chart value for person 6 for AIAN.xlsx 
+L182\L182_1043_the proof chart value for person 7 for AIAN.xlsx 
+L182\L182_1044_the proof chart value for person 8 for AIAN.xlsx 
+L182\L182_1045_the proof chart value for person 9 for AIAN.xlsx 
+L182\L182_1046_the proof chart value for person 10 for AIAN.xlsx 
+L182\L182_1047_the proof chart value for person 11 for AIAN.xlsx 
+L182\L182_1048_the proof chart value for person 12 for AIAN.xlsx 
+L182\L182_1049_the proof chart value for person 13 for AIAN.xlsx 
+L182\L182_1050_the proof chart value for person 14 for AIAN.xlsx 
+L182\L182_1051_the proof chart value for person 15 for AIAN.xlsx 
+L182\L182_1052_the proof chart value for person 16 for AIAN.xlsx 
+L182\L182_1053_the proof chart value for person 17 for AIAN.xlsx 
+L182\L182_1054_the proof chart value for person 18 for AIAN.xlsx 
+L182\L182_1055_the proof chart value for person 19 for AIAN.xlsx 
+L182\L182_1056_the proof chart value for person 20 for AIAN.xlsx 
+L182\L182_1057_the proof chart value for person 21 for AIAN.xlsx 
+L182\L182_1058_the proof chart value for person 22 for AIAN.xlsx 
+L182\L182_1059_the proof chart value for person 1 for SSN.xlsx 
+L182\L182_1060_the proof chart value for person 2 for SSN.xlsx 
+L182\L182_1061_the proof chart value for person 3 for SSN.xlsx 
+L182\L182_1062_the proof chart value for person 4 for SSN.xlsx 
+L182\L182_1063_the proof chart value for person 5 for SSN.xlsx 
+L182\L182_1064_the proof chart value for person 6 for SSN.xlsx 
+L182\L182_1065_the proof chart value for person 7 for SSN.xlsx 
+L182\L182_1066_the proof chart value for person 8 for SSN.xlsx 
+L182\L182_1067_the proof chart value for person 9 for SSN.xlsx 
+L182\L182_1068_the proof chart value for person 10 for SSN.xlsx 
+L182\L182_1069_the proof chart value for person 11 for SSN.xlsx 
+L182\L182_1070_the proof chart value for person 12 for SSN.xlsx 
+L182\L182_1071_the proof chart value for person 13 for SSN.xlsx 
+L182\L182_1072_the proof chart value for person 14 for SSN.xlsx 
+L182\L182_1073_the proof chart value for person 15 for SSN.xlsx 
+L182\L182_1074_the proof chart value for person 16 for SSN.xlsx 
+L182\L182_1075_the proof chart value for person 17 for SSN.xlsx 
+L182\L182_1076_the proof chart value for person 18 for SSN.xlsx 
+L182\L182_1077_the proof chart value for person 19 for SSN.xlsx 
+L182\L182_1078_the proof chart value for person 20 for SSN.xlsx 
+L182\L182_1079_the proof chart value for person 21 for SSN.xlsx 
+L182\L182_1080_the proof chart value for person 22 for SSN.xlsx 
+L182\L182_1103_the proof chart value for person 1 for immigration.xlsx 
+L182\L182_1104_the proof chart value for person 2 for immigration.xlsx 
+L182\L182_1105_the proof chart value for person 3 for immigration.xlsx 
+L182\L182_1106_the proof chart value for person 4 for immigration.xlsx 
+L182\L182_1107_the proof chart value for person 5 for immigration.xlsx 
+L182\L182_1108_the proof chart value for person 6 for immigration.xlsx 
+L182\L182_1109_the proof chart value for person 7 for immigration.xlsx 
+L182\L182_1110_the proof chart value for person 8 for immigration.xlsx 
+L182\L182_1111_the proof chart value for person 9 for immigration.xlsx 
+L182\L182_1112_he proof chart value for person 10 for immigration.xlsx 
+L182\L182_1113_he proof chart value for person 11 for immigration.xlsx 
+L182\L182_1114_he proof chart value for person 12 for immigration.xlsx 
+L182\L182_1115_he proof chart value for person 13 for immigration.xlsx 
+L182\L182_1116_he proof chart value for person 14 for immigration.xlsx 
+L182\L182_1117_he proof chart value for person 15 for immigration.xlsx 
+L182\L182_1118_he proof chart value for person 16 for immigration.xlsx 
+L182\L182_1119_he proof chart value for person 17 for immigration.xlsx 
+L182\L182_1120_he proof chart value for person 18 for immigration.xlsx 
+L182\L182_1121_he proof chart value for person 19 for immigration.xlsx 
+L182\L182_1122_he proof chart value for person 20 for immigration.xlsx 
+L182\L182_1123_he proof chart value for person 21 for immigration.xlsx 
+L182\L182_1124_he proof chart value for person 22 for immigration.xlsx 
+L182\L182_1411_the Subsidy program the person is eligible for.xlsx 
+L182\L182_3216_the persons conditional end date for APTC.xlsx 
+L182\L182_3217_the persons conditional end date for CSR.xlsx 
+L182\L182_3220_the persons conditional end date for QHP.xlsx 
+L182\L182_3454_ persons maximum triggering event date due to MAGI.xlsx 
+L182\L182_368_the maximum annual APTC amount.xlsx 
+L182\L182_3757_the persons proof chart date for income.xlsx 
+L182\L182_3758_the persons proof chart date for MEC.xlsx 
+L182\L182_3759_the persons proof chart date for incarceration.xlsx 
+L182\L182_3760_the persons proof chart date for deceased.xlsx 
+L182\L182_3763_the persons proof chart date for citizenship.xlsx 
+L182\L182_3995_ry Forward end date accounting for a notice period.xlsx 
+L182\L182_6351_ Subsidy maximum monthly premium amount for budget.xlsx 
+L183\L183_1942_the persons Transition end date initial.xlsx 
+L183\L183_3265_gibility reason for APTC  Income Not Within Limits.xlsx 
+L183\L183_3280_igibility reason for CSR  Income Not Within Limits.xlsx 
+L183\L183_3769_the persons proof chart string for income.xlsx 
+L183\L183_3770_the persons proof chart string for MEC.xlsx 
+L183\L183_3771_the persons proof chart string for incarceration.xlsx 
+L183\L183_3772_the persons proof chart string for deceased.xlsx 
+L183\L183_4879_the persons proof chart string for citizenship.xlsx 
+L183\L183_6189_ns CSR eligibility conditional end date for budget.xlsx 
+L183\L183_6225_s APTC eligibility conditional end date for budget.xlsx 
+L183\L183_6265_ns QHP eligibility conditional end date for budget.xlsx 
+L183\L183_822_the case type.xlsx 
+L183\L183_CA AID Codes - No-6614-No-92298 - Table 3.xlsx 
+L184\L184_1000_e proof chart value for person 8 for incarceration.xlsx 
+L184\L184_1001_e proof chart value for person 9 for incarceration.xlsx 
+L184\L184_1002_ proof chart value for person 10 for incarceration.xlsx 
+L184\L184_1003_ proof chart value for person 11 for incarceration.xlsx 
+L184\L184_1004_ proof chart value for person 12 for incarceration.xlsx 
+L184\L184_1005_ proof chart value for person 13 for incarceration.xlsx 
+L184\L184_1006_ proof chart value for person 14 for incarceration.xlsx 
+L184\L184_1007_ proof chart value for person 15 for incarceration.xlsx 
+L184\L184_1008_ proof chart value for person 16 for incarceration.xlsx 
+L184\L184_1009_ proof chart value for person 17 for incarceration.xlsx 
+L184\L184_1010_ proof chart value for person 18 for incarceration.xlsx 
+L184\L184_1011_ proof chart value for person 19 for incarceration.xlsx 
+L184\L184_1012_ proof chart value for person 20 for incarceration.xlsx 
+L184\L184_1013_ proof chart value for person 21 for incarceration.xlsx 
+L184\L184_1014_ proof chart value for person 22 for incarceration.xlsx 
+L184\L184_1015_the proof chart value for person 1 for deceased.xlsx 
+L184\L184_1016_the proof chart value for person 2 for deceased.xlsx 
+L184\L184_1017_the proof chart value for person 3 for deceased.xlsx 
+L184\L184_1018_the proof chart value for person 4 for deceased.xlsx 
+L184\L184_1019_the proof chart value for person 5 for deceased.xlsx 
+L184\L184_1020_the proof chart value for person 6 for deceased.xlsx 
+L184\L184_1021_the proof chart value for person 7 for deceased.xlsx 
+L184\L184_1022_the proof chart value for person 8 for deceased.xlsx 
+L184\L184_1023_the proof chart value for person 9 for deceased.xlsx 
+L184\L184_1024_the proof chart value for person 10 for deceased.xlsx 
+L184\L184_1025_the proof chart value for person 11 for deceased.xlsx 
+L184\L184_1026_the proof chart value for person 12 for deceased.xlsx 
+L184\L184_1027_the proof chart value for person 13 for deceased.xlsx 
+L184\L184_1028_the proof chart value for person 14 for deceased.xlsx 
+L184\L184_1029_the proof chart value for person 15 for deceased.xlsx 
+L184\L184_1030_the proof chart value for person 16 for deceased.xlsx 
+L184\L184_1031_the proof chart value for person 17 for deceased.xlsx 
+L184\L184_1032_the proof chart value for person 18 for deceased.xlsx 
+L184\L184_1033_the proof chart value for person 19 for deceased.xlsx 
+L184\L184_1034_the proof chart value for person 20 for deceased.xlsx 
+L184\L184_1035_the proof chart value for person 21 for deceased.xlsx 
+L184\L184_1036_the proof chart value for person 22 for deceased.xlsx 
+L184\L184_1081_the proof chart value for person 1 for citizenship.xlsx 
+L184\L184_1082_the proof chart value for person 2 for citizenship.xlsx 
+L184\L184_1083_the proof chart value for person 3 for citizenship.xlsx 
+L184\L184_1084_the proof chart value for person 4 for citizenship.xlsx 
+L184\L184_1085_the proof chart value for person 5 for citizenship.xlsx 
+L184\L184_1086_the proof chart value for person 6 for citizenship.xlsx 
+L184\L184_1087_the proof chart value for person 7 for citizenship.xlsx 
+L184\L184_1088_the proof chart value for person 8 for citizenship.xlsx 
+L184\L184_1089_the proof chart value for person 9 for citizenship.xlsx 
+L184\L184_1090_he proof chart value for person 10 for citizenship.xlsx 
+L184\L184_1091_he proof chart value for person 11 for citizenship.xlsx 
+L184\L184_1092_he proof chart value for person 12 for citizenship.xlsx 
+L184\L184_1093_he proof chart value for person 13 for citizenship.xlsx 
+L184\L184_1094_he proof chart value for person 14 for citizenship.xlsx 
+L184\L184_1095_he proof chart value for person 15 for citizenship.xlsx 
+L184\L184_1096_he proof chart value for person 16 for citizenship.xlsx 
+L184\L184_1097_he proof chart value for person 17 for citizenship.xlsx 
+L184\L184_1098_he proof chart value for person 18 for citizenship.xlsx 
+L184\L184_1099_he proof chart value for person 19 for citizenship.xlsx 
+L184\L184_1100_he proof chart value for person 20 for citizenship.xlsx 
+L184\L184_1101_he proof chart value for person 21 for citizenship.xlsx 
+L184\L184_1102_he proof chart value for person 22 for citizenship.xlsx 
+L184\L184_1944_the persons Transition end date day.xlsx 
+L184\L184_1945_the persons Transition end date month.xlsx 
+L184\L184_3365_the persons secondary AID code.xlsx 
+L184\L184_3783_the persons documentation due date.xlsx 
+L184\L184_751_the proof chart value for person 1 for income.xlsx 
+L184\L184_754_the proof chart value for person 2 for income.xlsx 
+L184\L184_757_the proof chart value for person 3 for income.xlsx 
+L184\L184_762_the proof chart value for person 4 for income.xlsx 
+L184\L184_765_the proof chart value for person 5 for income.xlsx 
+L184\L184_768_the proof chart value for person 6 for income.xlsx 
+L184\L184_772_the proof chart value for person 7 for income.xlsx 
+L184\L184_776_the proof chart value for person 8 for income.xlsx 
+L184\L184_779_the proof chart value for person 9 for income.xlsx 
+L184\L184_785_the proof chart value for person 10 for income.xlsx 
+L184\L184_789_the proof chart value for person 11 for income.xlsx 
+L184\L184_794_the proof chart value for person 12 for income.xlsx 
+L184\L184_801_the proof chart value for person 13 for income.xlsx 
+L184\L184_804_the proof chart value for person 14 for income.xlsx 
+L184\L184_808_the proof chart value for person 15 for income.xlsx 
+L184\L184_812_the proof chart value for person 16 for income.xlsx 
+L184\L184_816_the proof chart value for person 17 for income.xlsx 
+L184\L184_820_the proof chart value for person 18 for income.xlsx 
+L184\L184_824_the proof chart value for person 19 for income.xlsx 
+L184\L184_827_the proof chart value for person 20 for income.xlsx 
+L184\L184_833_the proof chart value for person 21 for income.xlsx 
+L184\L184_836_the proof chart value for person 22 for income.xlsx 
+L184\L184_849_the proof chart value for person 1 for MEC.xlsx 
+L184\L184_859_the proof chart value for person 2 for MEC.xlsx 
+L184\L184_862_the proof chart value for person 3 for MEC.xlsx 
+L184\L184_867_the proof chart value for person 4 for MEC.xlsx 
+L184\L184_870_the proof chart value for person 5 for MEC.xlsx 
+L184\L184_976_the proof chart value for person 6 for MEC.xlsx 
+L184\L184_977_the proof chart value for person 7 for MEC.xlsx 
+L184\L184_978_the proof chart value for person 8 for MEC.xlsx 
+L184\L184_979_the proof chart value for person 9 for MEC.xlsx 
+L184\L184_980_the proof chart value for person 10 for MEC.xlsx 
+L184\L184_981_the proof chart value for person 11 for MEC.xlsx 
+L184\L184_982_the proof chart value for person 12 for MEC.xlsx 
+L184\L184_983_the proof chart value for person 13 for MEC.xlsx 
+L184\L184_984_the proof chart value for person 14 for MEC.xlsx 
+L184\L184_985_the proof chart value for person 15 for MEC.xlsx 
+L184\L184_986_the proof chart value for person 16 for MEC.xlsx 
+L184\L184_987_the proof chart value for person 17 for MEC.xlsx 
+L184\L184_988_the proof chart value for person 18 for MEC.xlsx 
+L184\L184_989_the proof chart value for person 19 for MEC.xlsx 
+L184\L184_990_the proof chart value for person 20 for MEC.xlsx 
+L184\L184_991_the proof chart value for person 21 for MEC.xlsx 
+L184\L184_992_the proof chart value for person 22 for MEC.xlsx 
+L184\L184_993_e proof chart value for person 1 for incarceration.xlsx 
+L184\L184_994_e proof chart value for person 2 for incarceration.xlsx 
+L184\L184_995_e proof chart value for person 3 for incarceration.xlsx 
+L184\L184_996_e proof chart value for person 4 for incarceration.xlsx 
+L184\L184_997_e proof chart value for person 5 for incarceration.xlsx 
+L184\L184_998_e proof chart value for person 6 for incarceration.xlsx 
+L184\L184_999_e proof chart value for person 7 for incarceration.xlsx 
+L185\L185_147_the NOD01 regulation string part 22 exists.xlsx 
+L185\L185_148_the NOD01 regulation string part 23 exists.xlsx 
+L185\L185_6141_the persons Subsidy AID Code for budget.xlsx 
+L185\L185_7621_the persons program AID code.xlsx 
+L185\L185_7768_the persons budget eligible.xlsx 
+L187\L187_149_the NOD01 regulation string part 24 exists.xlsx 
+L187\L187_150_the NOD01 regulation string part 25 exists.xlsx 
+L187\L187_5090_the persons NOD02 regulation string part 13 exists.xlsx 
+L187\L187_5118_the persons NOD02 regulation string part 13.xlsx 
+L187\L187_6228_the persons initial begin date for APTC.xlsx 
+L187_1\L187_6268_the persons initial begin date for QHP.xlsx 
+L187_2\L187_6191_the persons initial begin date for CSR.xlsx 
+L187_3\L187_4512_the persons initial begin date for state subsidy.xlsx 
+L188\L188_133_the NOD01 regulation string part 8 exists.xlsx 
+L188\L188_135_the NOD01 regulation string part 10 exists.xlsx 
+L188\L188_153_the NOD01 regulation string part 28 exists.xlsx 
+L188\L188_180_the NOD01 regulation string part 28.xlsx 
+L188\L188_3200_the persons begin date for APTC.xlsx 
+L188\L188_877_the NOD02 regulation string part 13 exists.xlsx 
+L188\L188_880_the NOD02 regulation string part 13.xlsx 
+L188_1\L188_3205_the persons begin date for QHP.xlsx 
+L188_2\L188_3201_the persons begin date for CSR.xlsx 
+L188_3\L188_2842_the persons begin date for state subsidy.xlsx 
+L189\L189_1472_ersons APTC effective enrollment period begin date.xlsx 
+L189\L189_3247_the persons end date for APTC.xlsx 
+L189\L189_360_the HBX eligibility evaluation period begin date.xlsx 
+L189\L189_3811_the persons QHP discontinuance date month 0.xlsx 
+L189\L189_3812_the persons QHP discontinuance date day 0.xlsx 
+L189\L189_3815_the persons QHP begin date month 0.xlsx 
+L189\L189_3816_the persons QHP begin date day 0.xlsx 
+L189\L189_3977_the persons ROP discontinuance date.xlsx 
+L189\L189_4250_the persons initial begin date for CCHIP.xlsx 
+L189\L189_4445_the persons initial begin date for MCAP.xlsx 
+L189\L189_5106_the persons NOD02 regulation string part 1.xlsx 
+L189\L189_5107_the persons NOD02 regulation string part 2.xlsx 
+L189\L189_5108_the persons NOD02 regulation string part 3.xlsx 
+L189\L189_5109_the persons NOD02 regulation string part 4.xlsx 
+L189\L189_5110_the persons NOD02 regulation string part 5.xlsx 
+L189\L189_5111_the persons NOD02 regulation string part 6.xlsx 
+L189\L189_5112_the persons NOD02 regulation string part 7.xlsx 
+L189\L189_5113_the persons NOD02 regulation string part 8.xlsx 
+L189\L189_5114_the persons NOD02 regulation string part 9.xlsx 
+L189\L189_5115_the persons NOD02 regulation string part 10.xlsx 
+L189\L189_5116_the persons NOD02 regulation string part 11.xlsx 
+L189\L189_5117_the persons NOD02 regulation string part 12.xlsx 
+L189\L189_6187_the persons CSR eligibility begin date for budget.xlsx 
+L189\L189_6223_the persons APTC eligibility begin date for budget.xlsx 
+L189\L189_6267_the persons QHP eligibility begin date for budget.xlsx 
+L189_1\L189_1474_persons QHP effective enrollment period begin date.xlsx 
+L189_1\L189_3252_the persons end date for QHP.xlsx 
+L189_1\L189_3362_the persons renewal date for QHP.xlsx 
+L189_2\L189_1473_persons CSR effective enrollment period begin date.xlsx 
+L189_2\L189_3248_the persons end date for CSR.xlsx 
+L189_3\L189_2870_the persons end date for state subsidy.xlsx 
+L19\L19_1577_the persons calculated VCI annual income.xlsx 
+L19\L19_2016_the persons renewal snippet eligibility payment date B.xlsx 
+L19\L19_4060_ MAGI Medicaid remediated eligibility status timeline.xlsx 
+L19\L19_7063_the per prior eligibility state subsidy status prior day timeline.xlsx 
+L19\L19_7110_ MAGI Medicaid potential status prior day timeline.xlsx 
+L19\L19_7123_the persons prior eligibility QHP status prior day timeline.xlsx 
+L19\L19_7131_the persons prior eligibility APTC status prior day timeline.xlsx 
+L19\L19_7135_the persons prior eligibility CSR status prior day timeline.xlsx 
+L19\L19_7137_eligibility MAGI Medicaid status prior day timeline.xlsx 
+L19\L19_7139_ NonMAGI Medicaid status prior day timeline.xlsx 
+L19\L19_7142_the persons prior eligibility MCAP status prior day timeline.xlsx 
+L19\L19_7144_the persons prior eligibility CCHIP status prior day timeline.xlsx 
+L19\L19_7407_caid potential primary aid code prior day timeline.xlsx 
+L190\L190_1149_the earliest ROP eligibility effective date.xlsx 
+L190\L190_1477_ persons APTC effective enrollment period end date.xlsx 
+L190\L190_2835_the persons begin date for CCHIP for protection.xlsx 
+L190\L190_2857_rsons eligibility status for state subsidy  output.xlsx 
+L190\L190_3358_the persons renewal date for APTC.xlsx 
+L190\L190_361_the HBX eligibility evaluation period end date.xlsx 
+L190\L190_3809_the persons ROP discontinuance date month 0.xlsx 
+L190\L190_3810_the persons ROP discontinuance date day 0.xlsx 
+L190\L190_6188_the persons CSR eligibility end date for budget.xlsx 
+L190\L190_6224_the persons APTC eligibility end date for budget.xlsx 
+L190\L190_6264_the persons QHP eligibility end date for budget.xlsx 
+L190\L190_6266_he persons QHP eligibility renewal date for budget.xlsx 
+L190\L190_844_the NOD02 regulation string part 4.xlsx 
+L190\L190_857_the NOD02 regulation string part 5.xlsx 
+L190\L190_865_the NOD02 regulation string part 6.xlsx 
+L190\L190_879_the NOD02 regulation string part 12.xlsx 
+L190\L190_902_the NOD02 regulation string part 1.xlsx 
+L190\L190_903_the NOD02 regulation string part 2.xlsx 
+L190\L190_904_the NOD02 regulation string part 3.xlsx 
+L190\L190_905_the NOD02 regulation string part 7.xlsx 
+L190\L190_906_the NOD02 regulation string part 8.xlsx 
+L190\L190_907_the NOD02 regulation string part 9.xlsx 
+L190\L190_908_the NOD02 regulation string part 10.xlsx 
+L190\L190_909_the NOD02 regulation string part 11.xlsx 
+L190_1\L190_1479_e persons QHP effective enrollment period end date.xlsx 
+L190_2\L190_1478_e persons CSR effective enrollment period end date.xlsx 
+L190_2\L190_3359_the persons renewal date for CSR.xlsx 
+L191\L191_2956_ persons eligibility status code for state subsidy.xlsx 
+L191\L191_356_the output benefit month.xlsx 
+L191\L191_5636_s initial 166 snippet eligibility effective date A.xlsx 
+L191\L191_6190_he persons CSR eligibility renewal date for budget.xlsx 
+L191\L191_6226_e persons APTC eligibility renewal date for budget.xlsx 
+L192\L192_1959_e persons 166 snippet eligibility effective date A.xlsx 
+L192\L192_2834_the persons begin date for CCHIP .xlsx 
+L192\L192_2838_the persons begin date for MCAP.xlsx 
+L192\L192_367_the maximum annual state subsidy premium amount.xlsx 
+L192\L192_7625_the persons program status code.xlsx 
+L192\L192_966_the households ROP discontinuance date month 0.xlsx 
+L192\L192_967_the households ROP discontinuance date day 0.xlsx 
+L193\L193_152_the NOD01 regulation string part 27 exists.xlsx 
+L193\L193_179_the NOD01 regulation string part 27.xlsx 
+L193\L193_2836_the persons begin date for CCHIP  output.xlsx 
+L193\L193_2866_the persons end date for MCAP.xlsx 
+L193\L193_3211_the persons CCHIP renewal date.xlsx 
+L193\L193_3687_6 snippet eligibility effective date A minus 6 day.xlsx 
+L193\L193_4247_the persons last CCHIP discontinuance date.xlsx 
+L193\L193_5621_6 snippet eligibility effective date A minus 1 day.xlsx 
+L193\L193_5622_6 snippet eligibility effective date A minus 2 day.xlsx 
+L193\L193_5623_6 snippet eligibility effective date A minus 3 day.xlsx 
+L193\L193_5624_6 snippet eligibility effective date A minus 4 day.xlsx 
+L193\L193_5625_6 snippet eligibility effective date A minus 5 day.xlsx 
+L193_1\L193_3817_ility plan selection date A for special enrollment-1.xlsx 
+L193_2\L193_3817_ility plan selection date A for special enrollment-2.xlsx 
+L193_3\L193_3817_ility plan selection date A for special enrollment-3.xlsx 
+L193_4\L193_3817_ility plan selection date A for special enrollment-4.xlsx 
+L193_6\L193_3817_ility plan selection date A for special enrollment-6.xlsx 
+L193_7\L193_1963_sons 166 snippet eligibility plan selection date A-7.xlsx 
+L193_8\L193_1963_sons 166 snippet eligibility plan selection date A-8.xlsx 
+L194\L194_145_the NOD01 regulation string part 20 exists.xlsx 
+L194\L194_146_the NOD01 regulation string part 21 exists.xlsx 
+L194\L194_2862_the persons end date for CCHIP.xlsx 
+L194\L194_2863_the persons end date for CCHIP for protection.xlsx 
+L194\L194_5869_the persons CCHIP discontinuance date.xlsx 
+L194\L194_7622_the persons program begin date.xlsx 
+L194_1\L194_1960_e persons 166 snippet eligibility effective date B-1.xlsx 
+L194_2\L194_1960_e persons 166 snippet eligibility effective date B-2.xlsx 
+L194_3\L194_1960_e persons 166 snippet eligibility effective date B-3.xlsx 
+L195\L195_1964_sons 166 snippet eligibility plan selection date B.xlsx 
+L195\L195_2864_the persons end date for CCHIP  output.xlsx 
+L195\L195_3331_ day the person is eligible for special enrollment.xlsx 
+L195\L195_3455_ persons maximum triggering event date due to MCAP.xlsx 
+L195\L195_3688_6 snippet eligibility effective date B minus 6 day.xlsx 
+L195\L195_4249_the persons CCHIP verifications due date.xlsx 
+L195\L195_5618_et number of days to subtract for effective date A.xlsx 
+L195\L195_5630_6 snippet eligibility effective date B minus 1 day.xlsx 
+L195\L195_5631_6 snippet eligibility effective date B minus 2 day.xlsx 
+L195\L195_5632_6 snippet eligibility effective date B minus 3 day.xlsx 
+L195\L195_5633_6 snippet eligibility effective date B minus 4 day.xlsx 
+L195\L195_5634_6 snippet eligibility effective date B minus 5 day.xlsx 
+L195\L195_5864_the persons detected first day to enroll.xlsx 
+L195\L195_5947_egin date for MCAP for use with special enrollment.xlsx 
+L196\L196_1139_e effective start date determined during BRE  date.xlsx 
+L196\L196_3453_persons maximum triggering event date due to CCHIP.xlsx 
+L196\L196_5865_ to enroll between household and detection minimum.xlsx 
+L196\L196_5964_gin date for CCHIP for use with special enrollment.xlsx 
+L196\L196_7616_the reason.xlsx 
+L196\L196_7623_the persons program end date.xlsx 
+L196\L196_811_the skip condition string part 8.xlsx 
+L196\L196_858_the skip condition string part 6 exists.xlsx 
+L196\L196_974_the skip condition string part 8 exists.xlsx 
+L197\L197_1126_the event code to be sent to GI.xlsx 
+L197\L197_1132_the effective start date determined during BRE.xlsx 
+L197\L197_3257_ day the person is eligible for special enrollment.xlsx 
+L197\L197_3341_the persons MEC transition flag.xlsx 
+L197\L197_3372_the persons special enrollment factor.xlsx 
+L197\L197_5617_sons 166 snippet eligibility target payment date A.xlsx 
+L197\L197_5627_et number of days to subtract for effective date B.xlsx 
+L197\L197_7617_the reason code.xlsx 
+L197\L197_7726_the persons list.xlsx 
+L197\L197_7740_the persons eligibility factor.xlsx 
+L198\L198_1202_ds last day for plan selection for snippet display.xlsx 
+L198\L198_1221_the output for eligibility change.xlsx 
+L198\L198_1961_the persons 166 snippet eligibility payment date A.xlsx 
+L198\L198_3340_the persons MEC transition end date.xlsx 
+L198\L198_7724_the persons list name.xlsx 
+L198\L198_7725_the persons list type.xlsx 
+L198\L198_7738_the persons eligibility factor name.xlsx 
+L198\L198_7739_the persons eligibility factor program.xlsx 
+L198\L198_778_the skip condition string part 1.xlsx 
+L198\L198_784_the skip condition string part 2.xlsx 
+L198\L198_788_the skip condition string part 3.xlsx 
+L198\L198_793_the skip condition string part 4.xlsx 
+L198\L198_800_the skip condition string part 5.xlsx 
+L198\L198_803_the skip condition string part 6.xlsx 
+L198\L198_807_the skip condition string part 7.xlsx 
+L199\L199_376_the special enrollment reason output.xlsx 
+L199\L199_378_NOD01 should be triggered.xlsx 
+L199\L199_5626_sons 166 snippet eligibility target payment date B.xlsx 
+L199\L199_7618_the reasons last day to enroll.xlsx 
+L199\L199_7619_the reasons triggering event date.xlsx 
+L2\L2_1127_the postpartum period effective start date from reference values  string.xlsx 
+L2\L2_1131_the postpartum period effective end date from reference values  string.xlsx 
+L2\L2_1134_the number of days to extend postpartum period from reference values within policy.xlsx 
+L2\L2_1135_the number of days to extend postpartum period from reference values outside policy.xlsx 
+L2\L2_1137_the FPL value for detecting reason APTC  Detected Low FPL.xlsx 
+L2\L2_1138_the configuration to enable low FPL Detect.xlsx 
+L2\L2_1192_the attested SEP ID long code.xlsx 
+L2\L2_1193_the effective begin date to discard incarceration for MAGI from reference values  string.xlsx 
+L2\L2_1197_the state policy CR date for premium value from reference values  string.xlsx 
+L2\L2_1199_the state policy CR date for MAGI threshold from reference values  string.xlsx 
+L2\L2_1200_the state policy CR FPL for MAGI threshold from reference values.xlsx 
+L2\L2_1220_n premium to premium from reference values  string.xlsx 
+L2\L2_1286_the persons calculated EDD UI income.xlsx 
+L2\L2_1287_the persons calculated EDD DI income.xlsx 
+L2\L2_1982_the person is an applicant from collection.xlsx 
+L2\L2_1989_the person is incarcerated per admin from collection.xlsx 
+L2\L2_209_the FPL percentage the state decided for unemployment income.xlsx 
+L2\L2_2388_the person is temporarily out of state from collection.xlsx 
+L2\L2_3210_the persons CCHIP county output.xlsx 
+L2\L2_322_the FPL percentage the state decided for the high range of APTC.xlsx 
+L2\L2_3376_the persons tax status factor.xlsx 
+L2\L2_3383_the persons verification value for ESI MEC.xlsx 
+L2\L2_3767_the persons name for use in proof chart  last name.xlsx 
+L2\L2_4529_the persons calculated last eligibility conditional end date for state subsidy.xlsx 
+L2\L2_4725_the persons calculated EDD quarterly income.xlsx 
+L2\L2_4922_the person is a state resident per admin from collection.xlsx 
+L2\L2_6022_the persons pregnancy output for budget.xlsx 
+L2\L2_6337_the persons number of babies output for budget.xlsx 
+L2\L2_6753_the persons run date day 0.xlsx 
+L2\L2_6754_the persons run date date month 0.xlsx 
+L2\L2_6791_the persons monthly income amount.xlsx 
+L2\L2_6938_the persons prior eligibility timeline begin date for Medical Parole.xlsx 
+L2\L2_6939_the persons prior eligibility timeline begin date for State Inmate.xlsx 
+L2\L2_6940_the persons prior eligibility timeline end date for Medical Parole.xlsx 
+L2\L2_6941_the persons prior eligibility timeline end date for State Inmate.xlsx 
+L2\L2_694_the context coverage year.xlsx 
+L2\L2_6957_the persons prior eligibility status code for Medical Parole.xlsx 
+L2\L2_6958_the persons prior eligibility status code for State Inmate.xlsx 
+L2\L2_697_the open enrollment begin date from reference values  string.xlsx 
+L2\L2_702_the open enrollment end date from reference values  string.xlsx 
+L2\L2_7080_the persons prior eligibility timeline begin date for state subsidy initial.xlsx 
+L2\L2_7089_the persons prior eligibility timeline end date for state subsidy initial.xlsx 
+L2\L2_7095_the persons prior eligibility status code for state subsidy initial.xlsx 
+L2\L2_709_the date that the state decided to enable K series AID codes for Medical Parole.xlsx 
+L2\L2_7104_the persons prior eligibility timeline begin date for CCHIP initial.xlsx 
+L2\L2_7105_the persons prior eligibility status code for MCAP initial.xlsx 
+L2\L2_7108_the persons prior eligibility timeline end date for CCHIP initial.xlsx 
+L2\L2_710_the future open enrollment begin date from reference values  string.xlsx 
+L2\L2_7111_the persons prior eligibility status code for CCHIP initial.xlsx 
+L2\L2_7114_the persons prior eligibility timeline begin date for MCAP initial.xlsx 
+L2\L2_7117_the persons prior eligibility timeline end date for MCAP initial.xlsx 
+L2\L2_716_the future open enrollment end date from reference values  string.xlsx 
+L2\L2_722_the release 192 go live date from reference values  string.xlsx 
+L2\L2_729_the APTC Covid count until date from reference values  string.xlsx 
+L2\L2_7329_the persons SHOP employers special enrolment coverage effectuation date.xlsx 
+L2\L2_7380_the persons collection value reinstate date time.xlsx 
+L2\L2_742_the renewal start date from reference values  string.xlsx 
+L2\L2_7433_the persons collection QHP hold end date.xlsx 
+L2\L2_7434_the persons collection QHP hold begin date.xlsx 
+L2\L2_7435_the persons collection value date time.xlsx 
+L2\L2_7440_the persons VCI response monthly multiplier.xlsx 
+L2\L2_748_the renewal end date from reference values  string.xlsx 
+L2\L2_7524_the ROP verification.xlsx 
+L2\L2_753_the Accelerated Enrollment go live date for adults from reference values  string.xlsx 
+L2\L2_7643_the persons prior notice eligibility Aid code for display.xlsx 
+L2\L2_7718_the persons prior notice eligibility program for display.xlsx 
+L2\L2_7719_the persons prior notice eligibility status for display.xlsx 
+L2\L2_7720_the persons prior notice eligibility premium amount for display.xlsx 
+L2\L2_7758_the persons disposition end date for MAGI timeline.xlsx 
+L2\L2_787_the APTC cliff until date from reference values  string.xlsx 
+L2\L2_798_the APTC fair share until date from reference values  string.xlsx 
+L2\L2_810_the UI lock date from reference values  string.xlsx 
+L2\L2_818_the state subsidy configuration date from reference values  string.xlsx 
+L2\L2_831_the Micronesia effective date from reference values  string.xlsx 
+L2\L2_838_the full scope aged policy effective date from reference values  string.xlsx 
+L2\L2_840_the base age of older MAGI group from reference values.xlsx 
+L2\L2_843_the minimum age to grant full scope MAGI for young adults from reference values.xlsx 
+L2\L2_847_the maximum age to grant full scope MAGI for young adults from reference values.xlsx 
+L2\L2_851_the future renewal start date from reference values  string.xlsx 
+L2\L2_864_the future renewal end date from reference values  string.xlsx 
+L2\L2_889_the NOD02 regulation string part 5 exists.xlsx 
+L20\L20_1578_the persons VCI amount of months for income calculation.xlsx 
+L20\L20_1583_the persons calculated VCI income without SSA.xlsx 
+L200\L200_1962_the persons 166 snippet eligibility payment date B.xlsx 
+L200\L200_377_the transition NOD01 should be triggered.xlsx 
+L201\L201_1133_the event date to be sent to GI  date.xlsx 
+L201\L201_127_the NOD01 regulation string part 1 exists.xlsx 
+L201\L201_128_the NOD01 regulation string part 2 exists.xlsx 
+L201\L201_129_the NOD01 regulation string part 3 exists.xlsx 
+L201\L201_130_the NOD01 regulation string part 4 exists.xlsx 
+L201\L201_131_the NOD01 regulation string part 5 exists.xlsx 
+L201\L201_140_the NOD01 regulation string part 15 exists.xlsx 
+L201\L201_141_the NOD01 regulation string part 16 exists.xlsx 
+L201\L201_142_the NOD01 regulation string part 17 exists.xlsx 
+L201\L201_144_the NOD01 regulation string part 19 exists.xlsx 
+L201\L201_151_the NOD01 regulation string part 26 exists.xlsx 
+L201\L201_178_the NOD01 regulation string part 26.xlsx 
+L201\L201_186_the NOD04 regulation string part 1 exists.xlsx 
+L201\L201_187_the NOD04 regulation string part 2 exists.xlsx 
+L201\L201_188_the NOD04 regulation string part 3 exists.xlsx 
+L201\L201_189_the NOD04 regulation string part 4 exists.xlsx 
+L201\L201_193_the NOD04 regulation string part 4.xlsx 
+L202\L202_1128_the event date to be sent to GI.xlsx 
+L203\L203_154_the NOD01 regulation string part 1.xlsx 
+L203\L203_155_the NOD01 regulation string part 2.xlsx 
+L203\L203_156_the NOD01 regulation string part 3.xlsx 
+L203\L203_157_the NOD01 regulation string part 4.xlsx 
+L203\L203_158_the NOD01 regulation string part 5.xlsx 
+L203\L203_159_the NOD01 regulation string part 7.xlsx 
+L203\L203_160_the NOD01 regulation string part 8.xlsx 
+L203\L203_162_the NOD01 regulation string part 10.xlsx 
+L203\L203_163_the NOD01 regulation string part 11.xlsx 
+L203\L203_164_the NOD01 regulation string part 12.xlsx 
+L203\L203_165_the NOD01 regulation string part 13.xlsx 
+L203\L203_166_the NOD01 regulation string part 14.xlsx 
+L203\L203_167_the NOD01 regulation string part 15.xlsx 
+L203\L203_168_the NOD01 regulation string part 16.xlsx 
+L203\L203_169_the NOD01 regulation string part 17.xlsx 
+L203\L203_170_the NOD01 regulation string part 18.xlsx 
+L203\L203_171_the NOD01 regulation string part 19.xlsx 
+L203\L203_172_the NOD01 regulation string part 20.xlsx 
+L203\L203_173_the NOD01 regulation string part 21.xlsx 
+L203\L203_174_the NOD01 regulation string part 22.xlsx 
+L203\L203_175_the NOD01 regulation string part 23.xlsx 
+L203\L203_176_the NOD01 regulation string part 24.xlsx 
+L203\L203_177_the NOD01 regulation string part 25.xlsx 
+L203\L203_190_the NOD04 regulation string part 1.xlsx 
+L203\L203_191_the NOD04 regulation string part 2.xlsx 
+L203\L203_192_the NOD04 regulation string part 3.xlsx 
+L203\L203_6901_the persons snippet.xlsx 
+L204\L204_202_the DER U flag.xlsx 
+L204\L204_Snippet Properties.xlsx 
+L205\L205_6924_the persons snippet ID string.xlsx 
+L206\L206_359_the exchange informational update flag.xlsx 
+L206\L206_6880_the persons snippet coverage start month.xlsx 
+L206\L206_6881_the persons snippet application date.xlsx 
+L206\L206_6882_the snippets persons APTCCSR coverage outcome.xlsx 
+L206\L206_6884_the persons snippet APTCCSR FPL limit.xlsx 
+L206\L206_6885_the snippets persons current date.xlsx 
+L206\L206_6886_the persons snippet coverage effective date.xlsx 
+L206\L206_6887_the persons snippet coverage end date.xlsx 
+L206\L206_6888_the persons snippet documentation due date.xlsx 
+L206\L206_6889_the persons snippet plan selection due date.xlsx 
+L206\L206_6890_the persons snippet enclosure number 1.xlsx 
+L206\L206_6891_the persons snippet enclosure number 2.xlsx 
+L206\L206_6893_the persons snippet MAGI discontinuance month.xlsx 
+L206\L206_6894_the persons snippet MAGI income.xlsx 
+L206\L206_6895_the persons snippet MAGI income limit.xlsx 
+L206\L206_6896_the persons snippet MAGI household size.xlsx 
+L206\L206_6897_the persons snippet member first name.xlsx 
+L206\L206_6898_the persons snippet member last name.xlsx 
+L206\L206_6899_the persons snippet enrollment end date.xlsx 
+L206\L206_6906_the persons snippet regulation string.xlsx 
+L207\L207_6908_the persons snippet sort position.xlsx 
+L207\L207_6925_the persons snippet MAGI size string.xlsx 
+L207\L207_6926_the persons snippet MAGI income string.xlsx 
+L207\L207_6928_the persons snippet regulation string for values.xlsx 
+L207\L207_6929_the persons snippet first name string.xlsx 
+L207\L207_6930_the persons snippet last name string.xlsx 
+L207\L207_6931_the persons snippet application month string.xlsx 
+L207\L207_6932_e persons snippet MAGI discontinuance month string.xlsx 
+L207\L207_6933_the persons snippet date string.xlsx 
+L207\L207_830_the DER U reason.xlsx 
+L208\L208_6927_the persons snippet MAGI income limit string.xlsx 
+L208\L208_7370_the global responses value.xlsx 
+L21\L21_1584_the persons VCI income.xlsx 
+L22\L22_1529_the persons MAGI income from federal source.xlsx 
+L22\L22_1579_the persons calculated VCI monthly income.xlsx 
+L22\L22_1582_the persons MAGI income from 3rd state source.xlsx 
+L23\L23_6942_the persons prior eligibility timeline begin date for APTC.xlsx 
+L23\L23_6943_the persons prior eligibility timeline end date for APTC.xlsx 
+L23\L23_6944_the persons prior eligibility timeline begin date for CSR.xlsx 
+L23\L23_6945_the persons prior eligibility timeline end date for CSR.xlsx 
+L23\L23_6946_the persons prior eligibility timeline begin date for MAGI Medicaid.xlsx 
+L23\L23_6947_the persons prior eligibility timeline end date for MAGI Medicaid.xlsx 
+L23\L23_6948_the persons prior eligibility timeline begin date for NonMAGI Medicaid.xlsx 
+L23\L23_6949_the persons prior eligibility timeline end date for NonMAGI Medicaid.xlsx 
+L23\L23_6951_the persons prior eligibility timeline begin date for QHP.xlsx 
+L23\L23_6952_the persons prior eligibility timeline end date for QHP.xlsx 
+L23\L23_7038_the persons prior eligibility secondary AID code for timeline.xlsx 
+L23\L23_7039_the persons prior eligibility maximum monthly premium amount for timeline.xlsx 
+L23\L23_7040_the persons prior eligibility Deemed Infant status code for timeline.xlsx 
+L23\L23_7041_the persons prior eligibility CEC end date for timeline.xlsx 
+L23\L23_7042_the persons prior eligibility CE for Pregnant Women end date for timeline.xlsx 
+L23\L23_7043_the persons prior eligibility CSR category ID for timeline.xlsx 
+L23\L23_7044_the persons prior eligibility renewal date for CSR for timeline.xlsx 
+L23\L23_7045_the persons prior eligibility conditional end date for CSR for timeline.xlsx 
+L23\L23_7046_the persons prior eligibility renewal date for APTC for timeline.xlsx 
+L23\L23_7047_the persons prior eligibility conditional end date for APTC for timeline.xlsx 
+L23\L23_7048_the persons prior eligibility renewal date for QHP for timeline.xlsx 
+L23\L23_7049_the persons prior eligibility conditional end date for QHP for timeline.xlsx 
+L23\L23_7050_the persons prior eligibility conditional end date for MAGI Medicaid for timeline.xlsx 
+L23\L23_7051_the persons prior eligibility renewal date for MAGI Medicaid for timeline.xlsx 
+L23\L23_7052_the persons prior eligibility MAGI FPL for timeline.xlsx 
+L23\L23_7054_the persons prior eligibility status code for NonMAGI Medicaid for timeline.xlsx 
+L23\L23_7055_the persons prior eligibility status code for CSR for timeline.xlsx 
+L23\L23_7056_the persons prior eligibility status code for APTC for timeline.xlsx 
+L23\L23_7057_the persons prior eligibility primary AID code for timeline.xlsx 
+L23\L23_7058_the persons prior eligibility APTC amount for timeline.xlsx 
+L23\L23_7059_the persons prior eligibility status code for MAGI Medicaid for timeline.xlsx 
+L23\L23_7060_the persons prior eligibility status code for QHP for timeline.xlsx 
+L23\L23_7074_the persons prior eligibility timeline begin date for CCHIP.xlsx 
+L23\L23_7075_the persons prior eligibility timeline begin date for MCAP.xlsx 
+L23\L23_7076_the persons prior eligibility timeline begin date for state subsidy.xlsx 
+L23\L23_7081_the persons prior eligibility timeline end date for CCHIP.xlsx 
+L23\L23_7082_the persons prior eligibility timeline end date for MCAP.xlsx 
+L23\L23_7085_the persons prior eligibility status code for CCHIP.xlsx 
+L23\L23_7086_the persons prior eligibility status code for MCAP.xlsx 
+L23\L23_7087_the persons prior eligibility timeline end date for state subsidy.xlsx 
+L23\L23_7093_the persons prior eligibility status code for state subsidy.xlsx 
+L23\L23_7098_the persons prior eligibility potential status code for MAGI Medicaid for timeline.xlsx 
+L23\L23_7099_the persons prior eligibility state subsidy AID code for timeline.xlsx 
+L23\L23_7113_the persons prior eligibility CCHIP AID code for timeline.xlsx 
+L23\L23_7118_the persons prior eligibility state subsidy maximum monthly premium amount for timeline.xlsx 
+L23\L23_7119_the persons prior eligibility MCAP AID code for timeline.xlsx 
+L23\L23_7120_the persons prior eligibility Subsidy Income for timeline.xlsx 
+L23\L23_7124_the persons prior eligibility eincome used value for timeline.xlsx 
+L23\L23_7126_the persons prior eligibility PTD indicator for timeline.xlsx 
+L23\L23_7132_the persons prior eligibility MCAP hold admin override for timeline.xlsx 
+L23\L23_7134_the persons prior eligibility MCAP hold switch for timeline.xlsx 
+L23\L23_7136_the persons prior eligibility MCAP hold for timeline.xlsx 
+L23\L23_7141_the persons prior eligibility ROP indicator for timeline.xlsx 
+L23\L23_7145_the persons prior eligibility QHP hold switch for timeline.xlsx 
+L23\L23_7146_the persons prior eligibility QHP hold admin override for timeline.xlsx 
+L23\L23_7300_the persons prior eligibility temporary CSR category ID for timeline.xlsx 
+L23\L23_7302_the persons prior eligibility CAPS maximum annual premium amount for timeline.xlsx 
+L23\L23_7304_the persons prior eligibility maximum annual premium amount for timeline.xlsx 
+L23\L23_7401_persons prior eligibility subsidy FPL for timeline.xlsx 
+L23\L23_7403_ Medicaid for timeline for carry forward detection.xlsx 
+L23\L23_7404_al primary aid code for MAGI Medicaid for timeline.xlsx 
+L23\L23_7408_meline begin date for MAGI Medicaid for soft pause.xlsx 
+L23\L23_7409_timeline end date for MAGI Medicaid for soft pause.xlsx 
+L24\L24_68_the initial assessment date.xlsx 
+L25\L25_1697_the persons APTC eligibility status timeline.xlsx 
+L25\L25_1726_the persons CSR eligibility status timeline.xlsx 
+L25\L25_1778_the persons MAGI Medicaid eligibility status timeline.xlsx 
+L25\L25_1790_the persons NonMAGI Medicaid eligibility status timeline.xlsx 
+L25\L25_1804_the persons QHP eligibility status timeline.xlsx 
+L25\L25_1923_the persons maximum monthly premium amount timeline.xlsx 
+L25\L25_4121_the persons QHP hold status timeline.xlsx 
+L25\L25_4520_the persons state subsidy eligibility status timeline.xlsx 
+L25\L25_4647_the persons MCAP eligibility status timeline.xlsx 
+L25\L25_4648_the persons CCHIP eligibility status timeline.xlsx 
+L25\L25_5872_the persons state subsidy maximum monthly premium amount timeline.xlsx 
+L25\L25_6142_the persons MAGI Medicaid potential eligibility status timeline.xlsx 
+L25\L25_6834_the persons subsidy FPL timeline.xlsx 
+L25\L25_6843_ MAGI Medicaid potential primary aid code timeline.xlsx 
+L25\L25_6850_edicaid eligibility status timeline for soft pause.xlsx 
+L26\L26_42_the assessment date.xlsx 
+L27\L27_1140_the assessment date output for budget.xlsx 
+L27\L27_1144_the date to use for special enrollment.xlsx 
+L27\L27_11_the APTC benefit date.xlsx 
+L27\L27_1406_the persons Medicaid eligibility effective date.xlsx 
+L27\L27_309_the state elected number of days in the Subsidy notice period.xlsx 
+L27\L27_50_the income assessment date.xlsx 
+L27\L27_86_the assessment dates prior month.xlsx 
+L28\L28_1501_alculated last eligibility conditional end date for QHP.xlsx 
+L28\L28_1502_ted last eligibility conditional end date for APTC.xlsx 
+L28\L28_1503_culated last eligibility conditional end date for CSR.xlsx 
+L28\L28_1708_he final CSR category of the coverage year.xlsx 
+L28\L28_1713_he final primary AID code of the coverage year.xlsx 
+L28\L28_1716_the final secondary AID code of the coverage year.xlsx 
+L28\L28_1735_a the fina primary AID code of the coverage year.xlsx 
+L28\L28_1852_iscontinuance date accounting for a notice period.xlsx 
+L28\L28_1862_persons Subsidy end date accounting for a notice period.xlsx 
+L28\L28_206_the first day of assessment date day 0.xlsx 
+L28\L28_207_the first day of assessment date month 0.xlsx 
+L28\L28_2888_the persons last medical parole AID code.xlsx 
+L28\L28_302_the first day of the open enrollment period.xlsx 
+L28\L28_3204_the persons begin date for NonMAGI Medicaid.xlsx 
+L28\L28_358_the coverage start date.xlsx 
+L28\L28_4396_the persons last state inmate AID code.xlsx 
+L28\L28_5806_for eligibility start date without special enrollment.xlsx 
+L28\L28_6021_applicable number of postpartum extension days.xlsx 
+L28\L28_7339_the persons MEDS MAGI response next effective date.xlsx 
+L28\L28_7349_the persons MEDS response next effective date.xlsx 
+L28\L28_871_the last day of assessment date day 0.xlsx 
+L28\L28_872_the last day of assessment date month 0.xlsx 
+L29\L29_1250_the persons eligibility redetermination effective date.xlsx 
+L29\L29_1534_the persons primary AID code on the final day of the previous coverage year.xlsx 
+L29\L29_1748_the persons MCAP AID code on the final day of the previous coverage year.xlsx 
+L29\L29_1788_conditionally eligible for an AIAN CSR category.xlsx 
+L29\L29_1822_ons upcoming APTC begin date notice period.xlsx 
+L29\L29_1823_upcoming CSR begin date notice period.xlsx 
+L29\L29_1824_upcoming QHP begin date notice period.xlsx 
+L29\L29_2825_the postpartum end date for pregnancy.xlsx 
+L29\L29_3196_the persons age factor.xlsx 
+L29\L29_4192_the persons immigration value for Medicaid.xlsx 
+L29\L29_4417_State Inmate begin date for pending status.xlsx 
+L29\L29_4418_ Inmate begin date for eligible status.xlsx 
+L29\L29_4419_ Medical Parole begin date for pending status.xlsx 
+L29\L29_4420_the persons last Medical Parole begin date for eligible status.xlsx 
+L29\L29_4519_the first day of the persons upcoming state subsidy begin date notice period.xlsx 
+L29\L29_7322_the persons SHOP employers coverage effectuation date.xlsx 
+L29\L29_75_the final day before the subsidy notice period.xlsx 
+L29\L29_873_the first day month after assessment date day 0.xlsx 
+L29\L29_874_the first day month after assessment date month 0.xlsx 
+L2_8\L3_7019_the persons prior eligibility primary AID code.xlsx 
+L2_8\L3_7020_the persons prior eligibility status code for MAGI MediCal.xlsx 
+L3\L3_136_the NOD01 regulation string part 11 exists.xlsx 
+L3\L3_137_the NOD01 regulation string part 12 exists.xlsx 
+L3\L3_138_the NOD01 regulation string part 13 exists.xlsx 
+L3\L3_139_the NOD01 regulation string part 14 exists.xlsx 
+L3\L3_1672_the persons projected annual income reported by applicant including domestic partner.xlsx 
+L3\L3_1811_the persons SHOP eligibility status timeline.xlsx 
+L3\L3_2843_the persons calculated EDD income without SSA.xlsx 
+L3\L3_2899_the persons MCIEP date accounting for a 10 day notice period.xlsx 
+L3\L3_3215_the persons citizenship factor.xlsx 
+L3\L3_328_the first eligibility checkpoint call.xlsx 
+L3\L3_3332_the persons lawful presence factor.xlsx 
+L3\L3_3385_the persons verification value for NonESI MEC.xlsx 
+L3\L3_3766_the persons name for use in proof chart  first name.xlsx 
+L3\L3_3791_the persons CCHIP county contact number.xlsx 
+L3\L3_3792_the persons CCHIP county for use with notices.xlsx 
+L3\L3_4194_the persons immigration value for subsidy.xlsx 
+L3\L3_4668_the persons timeline for enrollment status.xlsx 
+L3\L3_6937_the persons prior eligibility QHP hold switch.xlsx 
+L3\L3_6950_the persons prior eligibility QHP hold admin override.xlsx 
+L3\L3_7091_the persons prior eligibility MCAP hold admin override.xlsx 
+L3\L3_7106_the persons prior eligibility MCAP hold switch.xlsx 
+L3\L3_7129_the persons prior eligibility MCAP hold.xlsx 
+L3\L3_7432_the persons collection value date.xlsx 
+L3\L3_7510_the persons FTB response calculated household income 540.xlsx 
+L3\L3_764_the skip condition string part 2 exists.xlsx 
+L30\L30_1142_the households first day to enroll.xlsx 
+L30\L30_1215_the persons family size factor.xlsx 
+L30\L30_1244_annual eligibility redetermination effective date.xlsx 
+L30\L30_1704_CCHIP eligibility carried over from previous coverage year.xlsx 
+L30\L30_1832_discontinuance date accounting for a notice period.xlsx 
+L30\L30_1847_the persons last CSR category change date.xlsx 
+L30\L30_1849_the persons last secondary AID code change date.xlsx 
+L30\L30_3459_the persons second eligibility checkpoint call.xlsx 
+L30\L30_4193_or status used for eligibility determination for MAGI.xlsx 
+L30\L30_6868_the persons income annual multiplier.xlsx 
+L30\L30_6873_ income monthly multiplier for income begin date.xlsx 
+L30\L30_6874_ncome monthly multiplier for income end date.xlsx 
+L31\L31_1784_the persons MCAP begin date for an unchanged status.xlsx 
+L31\L31_3384_the persons verification value for MEDS MEC.xlsx 
+L31\L31_3387_the persons verification value for residency.xlsx 
+L31\L31_3416_the eligibility checkpoint call string for FFY exists.xlsx 
+L31\L31_3477_hird eligibility checkpoint call string for FFY exists.xlsx 
+L31\L31_3647_the persons immigration category.xlsx 
+L31\L31_6774_the persons income monthly multiplier.xlsx 
+L32\L32_1677_the persons total Employment income for subsidy.xlsx 
+L32\L32_1684_the persons total Other income for subsidy.xlsx 
+L32\L32_1690_the persons total Selfemployment income for subsidy.xlsx 
+L32\L32_3930_the persons total Employment income for subsidy that should be shared.xlsx 
+L32\L32_3931_the persons total Employment income for subsidy that should not be shared.xlsx 
+L32\L32_3932_the persons total Selfemployment income for subsidy that should not be shared.xlsx 
+L32\L32_3933_the persons total Selfemployment income for subsidy that should be shared.xlsx 
+L32\L32_3934_the persons total Other income for subsidy that should be shared.xlsx 
+L32\L32_3935_the persons total Other income for subsidy that should not be shared.xlsx 
+L32\L32_3938_deduction income amount for Subsidy for budget that should not be shared.xlsx 
+L32\L32_3939_deduction income amount for Subsidy for budget that should be shared.xlsx 
+L33\L33_1141_the retro run output for budget.xlsx 
+L33\L33_1278_the persons subsidy based income.xlsx 
+L33\L33_1588_the persons calculated subsidy based income without deductions.xlsx 
+L33\L33_1676_the persons total Employment income for subsidy including domestic partner.xlsx 
+L33\L33_1687_the persons total Selfemployment income for subsidy including domestic partner.xlsx 
+L33\L33_1730_the date of the persons last eligibility status.xlsx 
+L33\L33_1846_the persons effective end date for SHOP.xlsx 
+L33\L33_3251_the persons end date for NonMAGI Medicaid.xlsx 
+L33\L33_3325_the persons ineligibility reason for SHOP  Not a dependent of a SHOP employee.xlsx 
+L33\L33_3326_the persons ineligibility reason for SHOP  Not on Roster.xlsx 
+L33\L33_3327_the persons ineligibility reason for SHOP  Not within special enrollment period.xlsx 
+L33\L33_3328_the persons ineligibility reason for SHOP  Not within open enrollment period.xlsx 
+L33\L33_3339_the persons MEC factor.xlsx 
+L33\L33_3368_the persons SHOP dependent eligibility factor.xlsx 
+L33\L33_3370_the persons SHOP employee eligibility factor.xlsx 
+L33\L33_3929_the persons deduction income amount for Subsidy for budget.xlsx 
+L33\L33_3943_the persons RDP calculated subsidy based income without deductions.xlsx 
+L33\L33_4617_the persons initial total RDP income for Subsidy.xlsx 
+L33\L33_4706_the date of the persons last eligibility status for MAGI Medicaid.xlsx 
+L33\L33_6075_the persons Subsidy income output for budget.xlsx 
+L33\L33_6331_the persons MAGI 435603f2 display for budget.xlsx 
+L33\L33_6333_the persons MAGI 435119c display for budget.xlsx 
+L33\L33_6339_the persons Subsidy deduction output for budget.xlsx 
+L33\L33_7763_the persons budget meets 435603 f2 exception.xlsx 
+L34\L34_1422_the persons excluded from MAGI income under 435603.xlsx 
+L34\L34_1430_the persons MAGI income deduction amount.xlsx 
+L34\L34_1589_subsidy based income without deductions including domestic partner.xlsx 
+L34\L34_1673_the persons deduction amount for Subsidy including domestic partner.xlsx 
+L34\L34_1679_the persons total income for MAGI.xlsx 
+L34\L34_1680_the persons total Employment income for MAGI.xlsx 
+L34\L34_1683_the persons total Other income for MAGI.xlsx 
+L34\L34_1685_the persons total Other income for subsidy including domestic partner.xlsx 
+L34\L34_1689_the persons total Selfemployment income for MAGI.xlsx 
+L34\L34_1890_the persons Deemed Infant AID code.xlsx 
+L34\L34_2824_the persons residence factor.xlsx 
+L34\L34_2963_the persons total RDP income for Subsidy.xlsx 
+L34\L34_3253_the persons end date for SHOP.xlsx 
+L34\L34_3364_the persons state residency factor.xlsx 
+L34\L34_3663_RDP subsidy based deduction not accounting for projected income.xlsx 
+L34\L34_5873_the persons calculated eligibility date for LOC.xlsx 
+L34\L34_6020_the persons postpartum end date.xlsx 
+L34\L34_6076_the persons Subsidy income total output for budget.xlsx 
+L34\L34_6837_ous eligibility date before pending for soft pause.xlsx 
+L34_8\L35_Subsidy FPL Income Limits Apply Sheet.xlsx 
+L35\L35_1229_the persons family size for MAGI purposes.xlsx 
+L35\L35_1249_the persons pregnancy eligibility end date.xlsx 
+L35\L35_1279_the persons subsidy based income including domestic partner.xlsx 
+L35\L35_1675_the persons subsidy based income not accounting for projected income.xlsx 
+L35\L35_3225_the persons Deemed Infant status code.xlsx 
+L35\L35_3244_the persons eligibility status for NonMAGI Medicaid.xlsx 
+L35\L35_3398_the persons eligibility status for SHOP.xlsx 
+L35\L35_4446_should be assessed for pregnancy due to prospective dating MCAP.xlsx 
+L35\L35_6069_the persons MAGI income output for budget.xlsx 
+L35\L35_6070_the persons MAGI excluded income output for budget.xlsx 
+L35\L35_6324_the persons MAGI deduction output for budget.xlsx 
+L35\L35_6338_the persons Subsidy household size output for budget.xlsx 
+L35\L35_6842_ility status code preceding pending for soft pause.xlsx 
+L35\L35_Subsidy FPL Income Limits 2024.xlsx 
+L35_8\L36_MAGI FPL Income Limits Apply Sheet.xlsx 
+L36\L36_1210_the applicable 150 FPL for the person for Subsidy.xlsx 
+L36\L36_1211_the applicable 200 FPL for the person for Subsidy.xlsx 
+L36\L36_1212_the applicable 250 FPL for the person for Subsidy.xlsx 
+L36\L36_1213_the applicable 300 FPL for the person for Subsidy.xlsx 
+L36\L36_1218_the applicable 400 FPL for the person for Subsidy.xlsx 
+L36\L36_1248_the persons Medicaid eligibility end date.xlsx 
+L36\L36_1586_ed income including domestic partner.xlsx 
+L36\L36_1591_the persons countable MAGI income for budget.xlsx 
+L36\L36_3197_the persons aid code for NonMAGI MediCal.xlsx 
+L36\L36_3206_the persons begin date for SHOP.xlsx 
+L36\L36_3241_the persons eligibility status code for NonMAGI MediCal.xlsx 
+L36\L36_3246_the persons eligibility status code for SHOP.xlsx 
+L36\L36_3435_the persons individual CMI income.xlsx 
+L36\L36_3436_the persons individual PAI income.xlsx 
+L36\L36_6077_otal including RDP output for budget.xlsx 
+L36\L36_6323_the persons MAGI household size output for budget.xlsx 
+L36\L36_6334_the persons MAGI household 2 display for budget.xlsx 
+L36\L36_6341_the persons MAGI household 1 display for budget.xlsx 
+L36\L36_6848_ligibility status preceding pending for soft pause.xlsx 
+L36\L36_7324_rsons SHOP employers employee affordability income.xlsx 
+L36\L36_7325_es subsidy based income including domestic partner.xlsx 
+L36\L36_7776_the persons budget number of babies.xlsx 
+L36\L36_7777_the persons budget number of people.xlsx 
+L36\L36_MAGI FPL Income Limits - 2023.xlsx 
+L37\L37_1207_the applicable 125 FPL for the person for MAGI.xlsx 
+L37\L37_1233_the applicable 185 FPL for the person for MAGI.xlsx 
+L37\L37_1240_the applicable 133 FPL for the person for MAGI.xlsx 
+L37\L37_1251_the applicable 200 FPL for the person for MAGI.xlsx 
+L37\L37_1269_household Subsidy income from federal source.xlsx 
+L37\L37_1270_household Subsidy income from 1 st state source.xlsx 
+L37\L37_1271_household Subsidy income from 2 nd state source.xlsx 
+L37\L37_1276_the applicable 205 FPL for the person for MAGI.xlsx 
+L37\L37_1284_the applicable 138 FPL for the person for MAGI.xlsx 
+L37\L37_1455_the applicable 250 FPL for the person for MAGI.xlsx 
+L37\L37_1459_the applicable 109 FPL for the person for MAGI.xlsx 
+L37\L37_1460_the applicable 213 FPL for the person for MAGI.xlsx 
+L37\L37_1461_the applicable 266 FPL for the person for MAGI.xlsx 
+L37\L37_1462_the applicable 208 FPL for the person for MAGI.xlsx 
+L37\L37_1463_the applicable 142 FPL for the person for MAGI.xlsx 
+L37\L37_1470_the applicable 322 FPL for the person for MAGI.xlsx 
+L37\L37_1510_the applicable 114 FPL for the person for MAGI.xlsx 
+L37\L37_1520_the applicable 60 FPL for the person for MAGI.xlsx 
+L37\L37_1551_the applicable 160 FPL for the person for MAGI.xlsx 
+L37\L37_1552_the applicable 108 FPL for the person for MAGI.xlsx 
+L37\L37_1573_the persons initial household income for Subsidy.xlsx 
+L37\L37_1580_household Subsidy income from 3 rd state source.xlsx 
+L37\L37_1581_household MAGI income from 3 rd state source.xlsx 
+L37\L37_1592_the persons countable Subsidy income for budget.xlsx 
+L37\L37_1674_hold projected annual income reported by applicant.xlsx 
+L37\L37_1693_APTC conditional end date for pending negative action.xlsx 
+L37\L37_1696_APTC eligibility status for pending negative action.xlsx 
+L37\L37_1720_CSR category ID for pending negative action.xlsx 
+L37\L37_1722_conditional end date for pending negative action.xlsx 
+L37\L37_1725_CSR eligibility status for pending negative action.xlsx 
+L37\L37_1770_Medicaid conditional end date pending negative action.xlsx 
+L37\L37_1773_tMedicaid renewal date for pending negative action.xlsx 
+L37\L37_1775_MAGI Medicaid eligibility status for pending negative action.xlsx 
+L37\L37_1795_the persons primary AID code for pending negative action.xlsx 
+L37\L37_1798_the persons QHP conditional end pending negative action.xlsx 
+L37\L37_1803_the persons QHP eligibility status for pending negative action.xlsx 
+L37\L37_1808_the persons secondary AID code for pending negative action.xlsx 
+L37\L37_2873_the applicable 128 FPL for the person for MAGI.xlsx 
+L37\L37_3334_the persons family size for MAGI income purposes.xlsx 
+L37\L37_3639_conditional end date for pending negative action.xlsx 
+L37\L37_4565_subsidy eligibility status for pending negative action.xlsx 
+L37\L37_6349_bsidy not lawfully present multiplier for budget.xlsx 
+L37\L37_6749_porary CSR category ID for pending negative action.xlsx 
+L37\L37_7785_the persons budget not lawfully present multiplier.xlsx 
+L38\L38_1554_the persons everification income.xlsx 
+L38\L38_2823_MAGI income household size output for budget.xlsx 
+L38\L38_2878_the persons PAI household MAGI income.xlsx 
+L38\L38_3373_the persons Subsidy income amount.xlsx 
+L38\L38_5290_the persons MAGI pregnant income limit.xlsx 
+L38\L38_7771_the persons budget FPL 100 income.xlsx 
+L38\L38_State Global constants table - Table1 - MAGI Medicaid.xlsx 
+L38\L38_table - Table4 - MAGI CHIP (CA not implemented CHIP).xlsx 
+L39\L39_1308_the income standard for the person for CHIP Child.xlsx 
+L39\L39_1417_the income standard for the person for MAGI Adult.xlsx 
+L39\L39_1418_the income standard for the person for MAGI Pregnant.xlsx 
+L39\L39_1419_the income standard for the person for MAGI ParentCaretaker.xlsx 
+L39\L39_1635_the persons MAGI household projected annual income reported by applicant.xlsx 
+L39\L39_2975_the state defined income standard for the person for MAGI Child.xlsx 
+L39\L39_3367_the persons SHOP affordable employee coverage factor.xlsx 
+L39\L39_4816_the income standard for the person for MAGI ParentCaretaker for PAICMI.xlsx 
+L4\L4_1285_the persons EDD income.xlsx 
+L4\L4_1557_the persons ROP expiration date for income.xlsx 
+L4\L4_1785_the persons Medical Parole eligibility status timeline.xlsx 
+L4\L4_1814_the persons State Inmate eligibility status timeline.xlsx 
+L4\L4_2942_the persons ROP expiration for AIAN.xlsx 
+L4\L4_2943_the persons ROP expiration date for citizenship.xlsx 
+L4\L4_2944_the persons ROP expiration date for deceased.xlsx 
+L4\L4_2945_the persons ROP expiration date for incarceration.xlsx 
+L4\L4_2946_the persons ROP expiration date for lawful presence.xlsx 
+L4\L4_2947_the persons ROP expiration for SSN.xlsx 
+L4\L4_3224_the persons deceased factor.xlsx 
+L4\L4_3258_the persons incarceration factor.xlsx 
+L4\L4_3978_the persons ROP expiration for ESI MEC.xlsx 
+L4\L4_3979_the persons ROP expiration for NonESI MEC.xlsx 
+L4\L4_3980_the persons ROP expiration for MEDS MEC.xlsx 
+L4\L4_4425_the persons MCIEP renewal date for use with program begin date.xlsx 
+L4\L4_4903_the persons initial MAGI income from collection position 1 count.xlsx 
+L4\L4_4904_the persons initial MAGI income from collection position 2 count.xlsx 
+L4\L4_4905_the persons initial MAGI income from collection position 3 count.xlsx 
+L4\L4_4906_the persons initial MAGI income from collection position 5 count.xlsx 
+L4\L4_4909_the persons initial MAGI income limit from collection position 1 count.xlsx 
+L4\L4_4910_the persons initial MAGI income limit from collection position 2 count.xlsx 
+L4\L4_4911_the persons initial MAGI income limit from collection position 3 count.xlsx 
+L4\L4_4912_the persons initial MAGI income limit from collection position 5 count.xlsx 
+L4\L4_4914_the persons initial MAGI discontinuance date from collection month.xlsx 
+L4\L4_7084_the persons prior eligibility State Inmate timeline for status.xlsx 
+L4\L4_7122_the persons prior eligibility Medical Parole timeline for status.xlsx 
+L4\L4_761_the skip condition string part 1 exists.xlsx 
+L4\L4_7787_PersonsBudget.xlsx 
+L4\L4_Prior AID Code MEC - CR11389 - Table 2.xlsx 
+L40\L40_1304_for the person for MAGI Child.xlsx 
+L40\L40_1456_the persons AIM income verification.xlsx 
+L40\L40_3194_the persons SHOP affordability factor.xlsx 
+L40\L40_3366_affordable dependent coverage factor.xlsx 
+L40\L40_7780_the persons budget projected income.xlsx 
+L41\L41_1769_the persons calculated discontinuance date for MAGI Medicaid.xlsx 
+L45\L45_1782_the persons status for MCAP eligibility carried over from the previous coverage year.xlsx 
+L45\L45_2889_the persons MAGI budget determination.xlsx 
+L47\L47_1208_the persons MAGIbased income under 435603.xlsx 
+L48\L48_1431_the persons countable household MAGI income.xlsx 
+L48\L48_6072_the persons MAGI income total output for budget.xlsx 
+L49\L49_1209_the persons household MAGI income.xlsx 
+L49\L49_6071_the persons MAGI income household output for budget.xlsx 
+L5\L5_1157_the income compatibility threshold for MAGI.xlsx 
+L5\L5_2844_the persons calculated FTB income without SSA.xlsx 
+L5\L5_3386_the persons verification value for medicare.xlsx 
+L5\L5_3761_the persons proof chart date for AIAN.xlsx 
+L5\L5_3762_the persons proof chart date for SSN.xlsx 
+L5\L5_3764_the persons proof chart date for immigration.xlsx 
+L5\L5_3795_the persons ROP expiration for SSN month 0.xlsx 
+L5\L5_3796_the persons ROP expiration for SSN day 0.xlsx 
+L5\L5_3797_the persons ROP expiration date for incarceration month 0.xlsx 
+L5\L5_3798_the persons ROP expiration date for incarceration day 0.xlsx 
+L5\L5_3799_the persons ROP expiration date for deceased day 0.xlsx 
+L5\L5_3800_the persons ROP expiration date for deceased month 0.xlsx 
+L5\L5_3803_the persons ROP expiration for AIAN month 0.xlsx 
+L5\L5_3804_the persons ROP expiration for AIAN day 0.xlsx 
+L5\L5_3805_the persons ROP expiration date for citizenship month 0.xlsx 
+L5\L5_3806_the persons ROP expiration date for citizenship day 0.xlsx 
+L5\L5_3807_the persons ROP expiration date for lawful presence month 0.xlsx 
+L5\L5_3808_the persons ROP expiration date for lawful presence day 0.xlsx 
+L5\L5_3813_the persons ROP expiration date for income month 0.xlsx 
+L5\L5_3814_the persons ROP expiration date for income day 0.xlsx 
+L5\L5_3972_the persons ROP expiration for lawful presence test.xlsx 
+L5\L5_3973_the persons ROP expiration for citizenship test.xlsx 
+L5\L5_3974_the persons ROP expiration for deceased test.xlsx 
+L5\L5_3975_the persons ROP expiration for incarceration test.xlsx 
+L5\L5_3976_the persons earliest ROP expiration date from collection test.xlsx 
+L5\L5_4881_the persons proof chart date for income  initial.xlsx 
+L5\L5_4883_the persons proof chart date for MEC  initial.xlsx 
+L5\L5_4884_the persons proof chart date for incarceration  initial.xlsx 
+L5\L5_4885_the persons proof chart date for deceased  initial.xlsx 
+L5\L5_4886_the persons proof chart date for citizenship  initial.xlsx 
+L5\L5_4915_the persons initial MAGI discontinuance date from collection day.xlsx 
+L5\L5_7537_the reference value.xlsx 
+L5\L5_7746_the persons disposition begin date.xlsx 
+L5\L5_7767_the persons budget derived disability indicator.xlsx 
+L5\L5_7784_the persons budget type.xlsx 
+L50\L50_3335_the persons MAGI income monthly amount.xlsx 
+L51\L51_1590_countable MAGI household income budget.xlsx 
+L51\L51_1630_ MAGI household income deduction amount.xlsx 
+L51\L51_1632_e under 435603 not accounting for projected income.xlsx 
+L51\L51_1633_ accounting for projected income before deductions.xlsx 
+L51\L51_1634_the persons total Other household income for MAGI.xlsx 
+L51\L51_1681_total Employment household income for MAGI.xlsx 
+L51\L51_1688_ons total Selfemployment household income for MAGI.xlsx 
+L51\L51_6346_the persons MAGI FPL for budget.xlsx 
+L52\L52_1796_ons primary AID code for pregnant income disregard.xlsx 
+L52\L52_7766_the persons budget deductions.xlsx 
+L52\L52_7769_the persons budget employment income.xlsx 
+L52\L52_7778_the persons budget other income.xlsx 
+L52\L52_7781_budget self employment income.xlsx 
+L52\L52_7782_the persons budget total income.xlsx 
+L52\L52_7783_budget total income after deductions.xlsx 
+L53\L53_3293_lity reason for Medicaid  Income Not Within Limits.xlsx 
+L53\L53_6332_MAGI 435603i display for budget.xlsx 
+L53\L53_7773_budget noncountable deductions.xlsx 
+L53\L53_7774_budget noncountable income.xlsx 
+L54\L54_3229_reason for Medicaid  Income Within Limits.xlsx 
+L54\L54_4424_initial end date for Medical Parole.xlsx 
+L54\L54_7764_budget meets 435603 i exception.xlsx 
+L55\L55_2867_persons end date for Medical Parole.xlsx 
+L56\L56_1533_ility carried over from the previous coverage year.xlsx 
+L57\L57_3419_ility checkpoint call string for MAGI Child exists.xlsx 
+L57\L57_3421_ty checkpoint call string for MAGI Pregnant exists.xlsx 
+L57\L57_3480_ility checkpoint call string for MAGI Child exists.xlsx 
+L57\L57_3482_ty checkpoint call string for MAGI Pregnant exists.xlsx 
+L58\L58_3420_string for MAGI ParentCare taker exists.xlsx 
+L58\L58_3481_point call string for MAGI ParentCare taker exists.xlsx 
+L59\L59_3790_limit when not meeting income requirements.xlsx 
+L6\L6_3151_the persons MAGI income from 2 nd state source.xlsx 
+L6\L6_3785_the persons MAGI income from collection.xlsx 
+L6\L6_3786_the persons MAGI income limit from collection.xlsx 
+L6\L6_3970_the persons earliest ROP date.xlsx 
+L6\L6_6068_the persons calculated FTB income.xlsx 
+L6\L6_7757_the persons disposition begin date for MAGI timeline.xlsx 
+L6\L6_969_the skip condition string part 9 exists.xlsx 
+L6\L6_970_the skip condition string part 10 exists.xlsx 
+L60\L60_5237_MAGI program the person is eligible for CMI.xlsx 
+L60\L60_5238_MAGI program the person is eligible for PAI.xlsx 
+L62\L62_3418_ility checkpoint call string for MAGI Adult exists.xlsx 
+L62\L62_3479_ility checkpoint call string for MAGI Adult exists.xlsx 
+L63\L63_4145_check call string for Accelerated Enrollment.xlsx 
+L63\L63_4146_oint call string for Accelerated Enrollment exists.xlsx 
+L65\L65_3343_persons MediCal income factor.xlsx 
+L67\L67_2940_retro eligibility status for Medical Parole.xlsx 
+L67\L67_2941_retro eligibility status for State Inmate.xlsx 
+L67\L67_3243_the persons eligibility status for CHIP.xlsx 
+L67\L67_3423_fourth checkpoint call NQI Wrap Medicaid exists.xlsx 
+L67\L67_3484_third checkpoint call NQI Wrap Medicaid exists.xlsx 
+L68\L68_2904_eligibility status for Medical Parole.xlsx 
+L68\L68_3238_persons eligibility status code for CHIP.xlsx 
+L69\L69_2905_eligibility status code for Medical Parole.xlsx 
+L69\L69_4341_CE for Pregnant Women end date initial.xlsx 
+L7\L7_2874_the persons FTB income.xlsx 
+L7\L7_3801_the persons earliest ROP date month 0.xlsx 
+L7\L7_3802_the persons earliest ROP date day 0.xlsx 
+L7\L7_4099_the persons earliest begin date from disposition.xlsx 
+L7\L7_5087_the persons NOD02 regulation string part 10 exists.xlsx 
+L7\L7_5094_the persons NOD02 regulation string part 17 exists.xlsx 
+L7\L7_5095_the persons NOD02 regulation string part 18 exists.xlsx 
+L7\L7_5096_the persons NOD02 regulation string part 19 exists.xlsx 
+L7\L7_5097_the persons NOD02 regulation string part 20 exists.xlsx 
+L7\L7_5098_the persons NOD02 regulation string part 21 exists.xlsx 
+L7\L7_5099_the persons NOD02 regulation string part 22 exists.xlsx 
+L7\L7_5100_the persons NOD02 regulation string part 23 exists.xlsx 
+L7\L7_5101_the persons NOD02 regulation string part 24 exists.xlsx 
+L7\L7_5102_the persons NOD02 regulation string part 25 exists.xlsx 
+L7\L7_5105_the persons NOD02 regulation string part 28 exists.xlsx 
+L7\L7_5133_the persons NOD02 regulation string part 28.xlsx 
+L7\L7_5134_the persons regulation for NOD02 renewal snippet.xlsx 
+L70\L70_2901_the persons Medical Parole AID code.xlsx 
+L70\L70_4124_persons MCAP hold end date.xlsx 
+L71\L71_3212_the persons CEC end date.xlsx 
+L71\L71_5807_persons current MCAP end date.xlsx 
+L72\L72_3351_pregnancy program transition begin date.xlsx 
+L72\L72_3422_fourth eligibility checkpoint call MCAP exists.xlsx 
+L72\L72_3483_third eligibility checkpoint call MCAP exists.xlsx 
+L73\L73_2953_eligibility status for State Inmate.xlsx 
+L73\L73_3353_persons QHP hold end date.xlsx 
+L73\L73_4472_the persons last MCAP eligible or discontinued date.xlsx 
+L74\L74_1889_persons CECCEP begin date.xlsx 
+L74\L74_2954_eligibility status code for State Inmate.xlsx 
+L74\L74_3352_pregnancy program transition end date.xlsx 
+L75\L75_2950_the persons State Inmate AID code.xlsx 
+L75\L75_6011_MAGI for income reasonable compatibility for PAI.xlsx 
+L75\L75_6073_MAGI for income reasonable compatibility tests.xlsx 
+L76\L76_3414_fourth eligibility checkpoint call CCHIP exists.xlsx 
+L76\L76_3475_third eligibility checkpoint call CCHIP exists.xlsx 
+L76\L76_4422_initial end date for State Inmate.xlsx 
+L76\L76_4423_initial begin date for Medical Parole.xlsx 
+L77\L77_1874_the persons CEC AID code.xlsx 
+L77\L77_1876_CE for Pregnant Women AID code.xlsx 
+L77\L77_2839_begin date for Medical Parole.xlsx 
+L77\L77_2869_persons end date for State Inmate.xlsx 
+L77\L77_3213_CE for Pregnant Women end date.xlsx 
+L77\L77_3381_verification value for MAGI income.xlsx 
+L77\L77_3382_the persons verification value for PAI.xlsx 
+L77\L77_3424_fourth eligibility checkpoint QHP exists.xlsx 
+L77\L77_3485_third eligibility checkpoint QHP exists.xlsx 
+L77\L77_4421_persons initial begin date for State Inmate.xlsx 
+L78\L78_1888_the persons CPP AID code.xlsx 
+L78\L78_2841_the persons begin date for State Inmate.xlsx 
+L78\L78_5902_the persons latest MCIEP end date.xlsx 
+L78\L78_7125_Medical Parole status for a begin date day 29.xlsx 
+L78\L78_7127_Medical Parole status for a begin date day 30.xlsx 
+L78\L78_7130_Medical Parole status for a begin date day 31.xlsx 
+L79\L79_2900_the persons MCIEP program renewal date.xlsx 
+L79\L79_4064_ent eligibility status timeline for Medical Parole.xlsx 
+L79\L79_5901_the persons earliest MCIEP begin date.xlsx 
+L79\L79_7102_ity State Inmate status for a begin date of day 29.xlsx 
+L79\L79_7109_ity State Inmate status for a begin date of day 30.xlsx 
+L79\L79_7112_ity State Inmate status for a begin date of day 31.xlsx 
+L79\L79_734_the NOD67 regulation string part 19.xlsx 
+L79\L79_917_the NOD67 regulation string part 12 exists.xlsx 
+L79\L79_922_the NOD67 regulation string part 18 exists.xlsx 
+L79\L79_923_the NOD67 regulation string part 19 exists.xlsx 
+L8\L8_3693_the persons NOD02 regulation string part 1 exists.xlsx 
+L8\L8_5079_the persons NOD02 regulation string part 2 exists.xlsx 
+L8\L8_5080_the persons NOD02 regulation string part 3 exists.xlsx 
+L8\L8_5081_the persons NOD02 regulation string part 4 exists.xlsx 
+L8\L8_5084_the persons NOD02 regulation string part 7 exists.xlsx 
+L8\L8_5085_the persons NOD02 regulation string part 8 exists.xlsx 
+L8\L8_5088_the persons NOD02 regulation string part 11 exists.xlsx 
+L8\L8_5091_the persons NOD02 regulation string part 14 exists.xlsx 
+L8\L8_5103_the persons NOD02 regulation string part 26 exists.xlsx 
+L8\L8_5104_the persons NOD02 regulation string part 27 exists.xlsx 
+L8\L8_6074_the persons Subsidy income household size output for budget.xlsx 
+L8\L8_815_the skip condition string part 9.xlsx 
+L8\L8_884_the NOD02 regulation string part 10 exists.xlsx 
+L80\L80_4062_rrent eligibility status timeline for State Inmate.xlsx 
+L80\L80_727_the NOD67 regulation string part 16.xlsx 
+L80\L80_921_the NOD67 regulation string part 16 exists.xlsx 
+L80\L80_931_the NOD67 regulation string part 28 exists.xlsx 
+L81\L81_3371_the persons soft pause type.xlsx 
+L81\L81_6340_ pending negative action output for budget.xlsx 
+L81\L81_7140_ate for Medical Parole for use with program output.xlsx 
+L81\L81_720_the NOD67 regulation string part 14.xlsx 
+L81\L81_730_the NOD67 regulation string part 17.xlsx 
+L81\L81_732_the NOD67 regulation string part 18.xlsx 
+L81\L81_769_the NOD67 regulation string part 31.xlsx 
+L81\L81_790_the NOD67 regulation string part 36.xlsx 
+L81\L81_918_the NOD67 regulation string part 13 exists.xlsx 
+L81\L81_919_the NOD67 regulation string part 14 exists.xlsx 
+L81\L81_932_the NOD67 regulation string part 29 exists.xlsx 
+L81\L81_933_the NOD67 regulation string part 30 exists.xlsx 
+L81\L81_934_the NOD67 regulation string part 31 exists.xlsx 
+L81\L81_938_the NOD67 regulation string part 36 exists.xlsx 
+L82\L82_7138_ date for State Inmate for use with program output.xlsx 
+L83\L83_714_the NOD67 regulation string part 12.xlsx 
+L83\L83_717_the NOD67 regulation string part 13.xlsx 
+L83\L83_758_the NOD67 regulation string part 28.xlsx 
+L83\L83_763_the NOD67 regulation string part 29.xlsx 
+L83\L83_766_the NOD67 regulation string part 30.xlsx 
+L86\L86_707_the NOD67 regulation string part 10.xlsx 
+L86\L86_711_the NOD67 regulation string part 11.xlsx 
+L86\L86_915_the NOD67 regulation string part 10 exists.xlsx 
+L86\L86_928_the NOD67 regulation string part 25 exists.xlsx 
+L86\L86_936_the NOD67 regulation string part 34 exists.xlsx 
+L87\L87_3235_the persons eligibility status for BHP.xlsx 
+L87\L87_690_the NOD67 regulation string part 2.xlsx 
+L87\L87_691_the NOD67 regulation string part 3.xlsx 
+L87\L87_755_the NOD67 regulation string part 27.xlsx 
+L87\L87_786_the NOD67 regulation string part 35.xlsx 
+L87\L87_911_the NOD67 regulation string part 6 exists.xlsx 
+L87\L87_912_the NOD67 regulation string part 7 exists.xlsx 
+L87\L87_913_the NOD67 regulation string part 8 exists.xlsx 
+L87\L87_914_the NOD67 regulation string part 9 exists.xlsx 
+L87\L87_925_the NOD67 regulation string part 22 exists.xlsx 
+L87\L87_926_the NOD67 regulation string part 23 exists.xlsx 
+L87\L87_927_the NOD67 regulation string part 24 exists.xlsx 
+L87\L87_929_the NOD67 regulation string part 26 exists.xlsx 
+L87\L87_930_the NOD67 regulation string part 27 exists.xlsx 
+L87\L87_937_the NOD67 regulation string part 35 exists.xlsx 
+L88\L88_3237_the persons eligibility status code for BHP.xlsx 
+L88\L88_357_the BRE skip indicator.xlsx 
+L88\L88_689_the NOD67 regulation string part 1.xlsx 
+L88\L88_705_the NOD67 regulation string part 9.xlsx 
+L88\L88_920_the NOD67 regulation string part 5 exists.xlsx 
+L88\L88_924_the NOD67 regulation string part 21 exists.xlsx 
+L88\L88_935_the NOD67 regulation string part 33 exists.xlsx 
+L89\L89_695_the NOD67 regulation string part 5.xlsx 
+L89\L89_698_the NOD67 regulation string part 6.xlsx 
+L89\L89_700_the NOD67 regulation string part 7.xlsx 
+L89\L89_703_the NOD67 regulation string part 8.xlsx 
+L89\L89_739_the NOD67 regulation string part 21.xlsx 
+L89\L89_741_the NOD67 regulation string part 22.xlsx 
+L89\L89_744_the NOD67 regulation string part 23.xlsx 
+L89\L89_747_the NOD67 regulation string part 24.xlsx 
+L89\L89_749_the NOD67 regulation string part 25.xlsx 
+L89\L89_752_the NOD67 regulation string part 26.xlsx 
+L89\L89_777_the NOD67 regulation string part 33.xlsx 
+L89\L89_780_the NOD67 regulation string part 34.xlsx 
+L9\L9_5132_the persons NOD02 regulation string part 27.xlsx 
+L9\L9_875_the NOD02 regulation string part 1 exists.xlsx 
+L9\L9_878_the NOD02 regulation string part 14 exists.xlsx 
+L9\L9_883_the NOD02 regulation string part 11 exists.xlsx 
+L9\L9_886_the NOD02 regulation string part 8 exists.xlsx 
+L9\L9_887_the NOD02 regulation string part 7 exists.xlsx 
+L9\L9_890_the NOD02 regulation string part 4 exists.xlsx 
+L9\L9_891_the NOD02 regulation string part 3 exists.xlsx 
+L9\L9_892_the NOD02 regulation string part 2 exists.xlsx 
+L9\L9_964_the household ROP date month 0.xlsx 
+L9\L9_965_the household ROP date day 0.xlsx 
+L90\L90_693_the NOD67 regulation string part 4.xlsx 
+L90\L90_723_the NOD67 regulation string part 15.xlsx 
+L90\L90_735_the NOD67 regulation string part 20.xlsx 
+L90\L90_773_the NOD67 regulation string part 32.xlsx 
+L91\L91_910_the regulation string for NOD67.xlsx 
+L96\L96_3437_initial eligibility status for MAGI Medicaid.xlsx 
+L96\L96_775_the skip condition string part 3 exists.xlsx 
+L98\L98_3292_ason for Medicaid  Income Reasonable Compatibility.xlsx 
+L99\L99_7772_budget negative action code.xlsx 
