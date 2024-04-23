@@ -5,8 +5,19 @@ import win32com.client
 import openpyxl
 import xlrd
 
-
 def run_vba_macro_on_files_in_directory(directory_path, macro_name):
+    """
+    Runs a specified VBA macro on all Excel files in a given directory.
+
+    Args:
+        directory_path (str): The path to the directory containing the Excel files.
+        macro_name (str): The name of the VBA macro to run.
+
+    This function opens each Excel file in the specified directory and runs the specified VBA macro on it.
+    The Excel application is kept in the background during this process. The function ensures that the
+    PERSONAL.XLSB workbook is open so that the macro can be accessed. After running the macro, each workbook
+    is saved and closed. Finally, the Excel application is quit.
+    """
     # Create an Excel application object
     excel_app = win32com.client.Dispatch("Excel.Application")
     excel_app.Visible = False  # We keep Excel in the background
@@ -114,6 +125,21 @@ def get_column_letter_by_header(sheet, header_row, last_col):
 
 
 def get_jira_ids_from_excel_sheet(sheet, last_row, column_map):
+    """
+    Extracts Jira IDs from an Excel sheet and maps them to their row numbers.
+
+    Args:
+        sheet (xlwings.Sheet): The Excel sheet to extract Jira IDs from.
+        last_row (int): The last row in the sheet to consider.
+        column_map (dict): A dictionary mapping column names to their letter representations.
+
+    Returns:
+        dict: A dictionary mapping Jira IDs to their row numbers.
+
+    This function iterates over the rows of the specified Excel sheet, extracting the Jira ID from column 'A'
+    and the status from the column specified in the column map. If the Jira ID is not None and the status is not 'Done',
+    the function adds the Jira ID to the dictionary with its row number as the value.
+    """
     status_column = column_map["Status"]
     jira_id_to_row_map = {}
 
@@ -131,6 +157,20 @@ def get_jira_ids_from_excel_sheet(sheet, last_row, column_map):
 
 
 def search_xlsx(file_name, keyword):
+    """
+    Searches for a keyword in an Excel file.
+
+    Args:
+        file_name (str): The name of the Excel file to search.
+        keyword (str): The keyword to search for.
+
+    Returns:
+        bool: True if the keyword is found, False otherwise.
+
+    This function loads the specified Excel file and iterates over each sheet, row, and cell in the workbook.
+    If a cell contains a value and the keyword is found within that value, the function returns True.
+    If the keyword is not found in any cell in the workbook, the function returns False.
+    """
     workbook = openpyxl.load_workbook(file_name)
     for sheet in workbook:
         for row in sheet.iter_rows():
@@ -141,6 +181,20 @@ def search_xlsx(file_name, keyword):
 
 
 def search_xls(file_name, keyword):
+    """
+    Searches for a keyword in an Excel (.xls) file.
+
+    Args:
+        file_name (str): The name of the Excel file to search.
+        keyword (str): The keyword to search for.
+
+    Returns:
+        bool: True if the keyword is found, False otherwise.
+
+    This function loads the specified Excel file using the xlrd library and iterates over each sheet, row, and cell in the workbook.
+    If a cell contains a value and the keyword is found within that value, the function returns True.
+    If the keyword is not found in any cell in the workbook, the function returns False.
+    """
     workbook = xlrd.open_workbook(file_name)
     for sheet in workbook.sheets():
         for row in range(sheet.nrows):
@@ -152,6 +206,17 @@ def search_xls(file_name, keyword):
 
 
 def search_for_keyword_in_excel_files_within_directory(directory, keyword):
+    """
+    Searches for a keyword in all Excel files within a specified directory.
+
+    Args:
+        directory (str): The directory to search within.
+        keyword (str): The keyword to search for.
+
+    This function walks through the specified directory and its subdirectories, checking each file.
+    If a file is an Excel file (either .xls or .xlsx), the function searches for the keyword within the file.
+    If the keyword is found, the function opens the file using the default application.
+    """
     for root, _, files in os.walk(directory):
         for file in files:
             if file.endswith((".xls", ".xlsx")):

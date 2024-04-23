@@ -2,6 +2,21 @@ import javalang
 
 
 def parse_java_code(file_contents):
+    """
+    Parses Java code and builds a call hierarchy of methods.
+
+    Args:
+        file_contents (str): The Java code to parse.
+
+    Returns:
+        dict: A dictionary representing the call hierarchy. Each key is a method name, and the value is a set of methods
+              that the key method calls.
+
+    This function uses the javalang library to parse the Java code. It then walks the abstract syntax tree (AST) of the
+    code, looking for method declarations and invocations. For each method declaration, it records the method's name and
+    parameters. For each method invocation, it records the method being called and its arguments. It then adds the
+    invocation to the call hierarchy under the method that made the call.
+    """
     tree = javalang.parse.parse(file_contents)
     call_hierarchy = {}
 
@@ -35,6 +50,20 @@ def parse_java_code(file_contents):
 
 
 def detect_and_print_cycles(call_hierarchy):
+    """
+    Detects and prints cycles in a call hierarchy of methods.
+
+    Args:
+        call_hierarchy (dict): A dictionary representing the call hierarchy. Each key is a method name, and the value is a set of methods
+                               that the key method calls.
+
+    This function uses depth-first search to traverse the call hierarchy. It maintains a set of visited methods and a list representing
+    the current path from the root of the search to the current method. If it encounters a method that has not been visited, it adds the
+    method to the visited set and the path list, and then recursively searches the methods that the current method calls. If it encounters
+    a method that is in the path list (indicating a cycle), it prints the cycle and returns True. If it finishes searching all of a method's
+    callees without finding a cycle, it removes the method from the path list and returns False. The function starts the search from each
+    method in the call hierarchy that has not been visited.
+    """
     visited = set()
     path = []
 

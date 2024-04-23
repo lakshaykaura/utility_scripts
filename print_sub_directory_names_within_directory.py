@@ -10,5 +10,5 @@ path_to_directory = path_to_directory.replace(
 )  # Replace single backslashes with double backslashes
 
 # Print each directory on a new line
-for folder in file_utils.get_subfolders(path_to_directory):
+for folder in file_utils.get_subfolders_in_ruleflowgroup_order(path_to_directory):
     print(folder)
